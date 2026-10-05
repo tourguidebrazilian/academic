@@ -1,0 +1,227 @@
+---
+titulo: "2.2 - Educação Ambiental e Gestao Participativa na Explicitacao e Resolucao de Conflitos_Cardlos Fred. LOUREIRO"
+tamanho_bytes: 51450
+data_conversao: "2026-10-05T23:30:42.319Z"
+ferramenta: "Conversor Acadêmico Real"
+---
+
+Publicado em: Loureiro, C. F. B. Educação ambiental e gestão participativa na explicitação e resolução de conflitos. *Gestão em Ação*, Salvador, v.7, n.1, jan./abr. 2004.
+
+# Educação Ambiental e Gestão Participativa na Explicitação e Resolução de Conflitos
+
+**Resumo**
+
+Este artigo apresenta conceitos estruturantes da prática educativa ambiental voltada à gestão democrática de conflitos estabelecidos em torno do uso e apropriação dos recursos naturais em unidades territoriais delimitadas. A teorização é feita com base em experiências ocorridas em Unidades de Conservação e em comunidades, cujas atividades foram realizadas em espaços públicos de concertação entre atores sociais, por meio de processos educativos participativos e informais. Em síntese, são destacadas premissas que contribuem para a reflexão do educador e a atuação social qualificada e coerente com uma perspectiva crítica e emancipatória da Educação Ambiental.
+
+# Palavras-Chave
+
+Educação Ambiental – Gestão democrática – Conflito Ambiental
+
+# Environmental Education and participatory management in the unveiling and solution of conflicts
+
+**Abstract**
+
+This article presents concepts that structure the environmental education praxis aimed at the democratic management of conflicts established around the use and appropriation of natural resources in limited territories. The theory is constructed based in situations that took place in conservation units and in communities, whose activities were carried out in public spaces of agreement among social actors, through participatory educational and informal processes. In short, the article highlights the assumptions that contribute to reflections about a qualified and coherent social action with a critical and emancipatory perspective of environmental education.
+
+# Key-words
+
+Environmental education – Democratic management – Environmental conflict
+
+## Aspectos Iniciais
+
+No Brasil, as discussões afetas à Educação Ambiental adquirem caráter público em meados da década de 1980, com a realização dos primeiros encontros nacionais, a atuação crescente das organizações ambientalistas e a ampliação da produção acadêmica relacionada à chamada “questão ambiental”. Sua importância para o debate educacional se explicita formalmente na obrigatoriedade constitucional, em 1988, nos Parâmetros Curriculares Nacionais e na Lei Federal que define a Política Nacional de Educação Ambiental (Lei 9795/1999), instrumentos legais e documentos governamentais que asseguram à temática um caráter transversal, indispensável e indissociável da política educacional brasileira.
+
+Dentre os diferentes espaços pedagógicos em que se concretizam as práticas e experiências metodológicas em Educação Ambiental, além da instituição escolar, historicamente dois outros se destacaram no cenário nacional: as Unidades de Conservação (UCs) e a atuação direta em comunidades específicas, principalmente junto às chamadas populações tradicionais e aos grupos socialmente excluídos em núcleos urbanos. Em relação às UCs, não só estas são objeto direto de atenção dos projetos realizados por órgãos governamentais de meio ambiente das três esferas de poder, como a ação educativa e participativa em seus espaços privilegiados de gestão - os Conselhos Gestores - passou a ter destaque e caráter obrigatório na Lei 9.985 de 18/07/2000, que define o Sistema Nacional de Unidades de Conservação (Rocco, 2002). No que se refere às comunidades, as denominadas populações tradicionais estão envolvidas nas experiências em UCs e em áreas preservadas, em função de estarem assentadas próximas a estas ou inseridas nestas, em localidades não urbanizadas e com menor grau de degradação e ocupação humana. Constituem-se, portanto, em grupos sociais que classicamente se apresentam como de interesse para instituições governamentais e não-governamentais envolvidas com a conservação e a gestão ambiental. As postas à margem pelo processo produtivo capitalista em seu movimento de urbanização são  objeto  de  atenção  especial  dos  trabalhos  realizados  por  ONGs  de  caráter
+
+socioambiental, movimentos sociais e poder público (ao inserir o componente Educação Ambiental nos projetos sociais e de intervenção territorial).
+
+Dada a relevância e aumento quantitativo das ações constituídas nesses espaços e em função da experiência vivenciada pelo autor em projetos aí executados<sup>1</sup>, no presente artigo, desenvolvemos um conjunto de conceitos que são estruturantes da Educação Ambiental e que fornecem uma orientação efetiva para aqueles que atuam ou pretendem atuar junto a sujeitos que vivem em elevado estado de vulnerabilidade socioambiental.
+
+## De que Educação Ambiental estamos falando?
+
+O modo como se realiza a Educação nas sociedades contemporâneas complexas e as diferentes compreensões da relação sociedade-natureza (sentido estrito) que permeiam o movimento ambientalista e demais movimentos sociais não nos permite definir uma única Educação Ambiental, mas uma miríade de tendências constituídas por sujeitos distintos, com visões paradigmáticas de natureza e de sociedade, numa rede de interesses e interpretações em permanente conflito e diálogo (Carvalho, 2001).
+
+Ao analisarmos a história da Educação Ambiental no Brasil, podemos categorizar, para efeito de compreensão didática, seguindo esquema de Lima (2002) e as considerações de Loureiro (2003 e 2004), dois grandes blocos político-pedagógicos que se constituíram nos últimos trinta anos e no interior dos quais se estabeleceram inúmeras tendências que conformam o seu processo contínuo de construção. Mesmo não sendo únicos e nem homogêneos, os destacamos pois obtiveram hegemonia, por diversos motivos que não cabe aqui abordá-los, na produção acadêmica e teórica, nas articulações das redes de educadores ambientais e na definição da Política Nacional de Educação Ambiental.
+
+Um primeiro bloco, que poderíamos denominar conservador ou comportamentalista, é caracterizado por: propostas que implicam no reformismo superficial das relações sociais e de poder, não raramente reforçando situações de alienação e subordinação; pouca ênfase nos aspectos políticos da ação pedagógica; dicotomização das dimensões naturais e sociais,
+
+<sup>1</sup> Dentre as experiências, destacamos as realizadas com o Instituto Brasileiro de Análises Sociais e Econômicas (Ibase) na comunidade da Ilha de Paquetá/RJ e em comunidades do entorno da Baía de Guanabara, no ano 2000; e a executada em 2002 e 2003 em unidades de conservação do estado do Rio de Janeiro, numa parceria institucional entre Ibase e Ibama.
+
+diluindo a especificidade das sociedades humanas na natureza; sobrevalorização das soluções tecnológicas, subjetivistas e da aprendizagem experimental; e ênfase na educação como processo comportamentalista e moral. Geralmente, estão fundamentadas em concepções holísticas-espiritualistas e sistêmicas clássicas ou funcionalistas, no ambientalismo pragmático norte-americano e nas pedagogias de orientação liberal, tecnicista ou escolanovista, seguindo classificação de Saviani (1989). O outro, que poderíamos chamar de emancipatório, crítico ou transformador, é caracterizado pela politização e publicização das questões ambientais, entendidas como inerentemente sociais e históricas. Esta também se define pela valorização da democracia e do diálogo na explicitação dos conflitos ambientais, em busca de alternativas que considerem o conhecimento científico, as manifestações culturais populares e uma nova ética nas relações sociedade-natureza pautada e construída em processos coletivos de transformação social, enquanto condição básica para se estabelecer patamares societários que requalifiquem nossa inserção na natureza. Pensa a relação cultura-natureza sem estabelecer dualismos ou diluições da natureza humana na natureza (enquanto totalidade). É um bloco normalmente inspirado na pedagogia freireana ou histórico-crítica, na dialética marxista, na Teoria da Complexidade, na Ecologia Política e no ambientalismo radical.
+
+Dentro deste amplo cenário que define e redefine o próprio sentido da práxis educativa ambientalista, a posição teórica por nós assumida pressupõe a Educação Ambiental inserida no segundo grupo categorizado, sendo, portanto, um processo educativo permanente que tem por finalidade a construção de valores, conceitos, habilidades e atitudes que possibilitem o entendimento da realidade de vida e a atuação lúcida e responsável de atores sociais individuais e coletivos no ambiente (Loureiro, 2000).
+
+Assim, a Educação Ambiental não tem a finalidade de reproduzir e dar sentido universal a modos de vida e a valores de grupos dominantes, hegemonicamente apresentados ou compreendidos como adequados à harmonização com a natureza (como se esta fosse uma exterioridade à história), impondo condutas. Seu sentido primordial é o de estabelecer processos práticos e reflexivos que levem à consolidação de valores que possam ser entendidos e aceitos como favoráveis à sustentabilidade global, à justiça social e à preservação da vida. Este ponto merece todo destaque, posto que não é incomum observarmos  projetos  de  Educação  Ambiental  sendo  promovidos  por  órgãos
+
+governamentais e instituições da sociedade civil com o objetivo de levar grupos sociais em situação de exclusão a aceitarem padrões culturais e comportamentais previamente estabelecidos e a assumirem certos problemas como prioritários. O fato é que estes projetos, à luz do referencial adotado, deveriam fundamentalmente estabelecer processos participativos de ação consciente e integrada, fortalecendo o sentido de responsabilidade cidadã e de pertencimento a uma determinada localidade. Afinal, em Educação todos são sujeitos da transformação individual e coletiva, não podendo haver passividade diante do mundo.
+
+Ao pensarmos e realizarmos uma Educação Ambiental crítica e emancipatória, voltada para a democratização no acesso e apropriação dos bens naturais, para a gestão participativa e o exercício da cidadania, capaz de levar os sujeitos a se recolocarem no ambiente e a se ressignificarem enquanto natureza, resgatar o conceito de práxis associado à educação torna-se fundamental. No dizer de Konder (1992), a práxis é a atividade concreta pela qual o sujeito se afirma no mundo, modificando a realidade objetiva e sendo modificado, não de modo espontâneo, mecânico e repetitivo, mas reflexivo, pelo autoquestionamento, remetendo a teoria à prática. Práxis “*implica a ação e a reflexão dos homens sobre o mundo para transformá-lo*” (Freire, 1988: 67). Portanto, é a atividade que pressupõe sujeito livre e consciente e na qual não ocorre a dicotomia teoria e prática, objetividade e subjetividade, e nem a supremacia de um dos pólos sobre o outro.
+
+Práxis se refere à ação intersubjetiva. É uma atividade relativa à liberdade e às escolhas conscientes, feitas pela interação dialógica e pelas mediações que estabelecemos com o outro, a sociedade e o mundo. É, portanto, um conceito nuclear para a educação e, particularmente, para a Educação Ambiental, uma vez que conhecer, agir e se perceber no ambiente deixa de ser um ato exclusivamente teórico-cognitivo, espiritual ou experimental e torna-se um processo que se inicia nas impressões genéricas e intuitivas e que vai se tornando complexo e concreto na práxis.
+
+Nos educamos na atividade humana coletiva com sujeitos localizados temporal e espacialmente. Ter clareza disso é o que nos leva a atuar em Educação Ambiental, evitando o discurso genérico de que todos nós somos igualmente responsáveis e vítimas do processo de degradação ecossistêmica. Educar é agir conscientemente em processos sociais que se constituem conflitivamente por atores sociais que possuem projetos distintos de sociedade,
+
+que se apropriam material e simbolicamente da natureza de modo desigual. A práxis educativa transformadora e ambientalista é, portanto, aquela que fornece as condições para a ação modificadora e simultânea dos indivíduos e dos grupos sociais; que trabalha a partir da realidade cotidiana visando à superação das relações de dominação e de exclusão que caracterizam e definem a sociedade capitalista globalizada. Assim, a educação dialógica, apoiada no conceito de práxis, se define como “*a atividade de um sujeito que, ao enfrentar o desafio de mudar o mundo, enfrenta também o desafio de promover sua própria transformação*”. (Konder, 1992: 117).
+
+## Territorialidade, Cotidianidade e Vulnerabilidade Socioambiental
+
+Um dos pressupostos da Educação Ambiental é trabalhar os problemas específicos de cada grupo social, principalmente quando se tem por finalidade básica a gestão de unidades territoriais demarcadas, sem, contudo, deixar de articular tais problemas às questões macrossociais em que se inserem e à visão integradora do ambiente. Os grupos possuem peculiaridades ligadas à situação particular de seus ambientes, ao modo como interagem neste e à percepção qualitativa dos problemas. É a partir da ação territorializada dos diferentes atores sociais, com seus distintos interesses, compreensões e necessidades que se instauram os conflitos, acordos e diálogos pela apropriação e usos do patrimônio natural e se realizam os processos educativos voltados para a gestão democrática do ambiente (Loureiro, 2002). Logo, podemos entender territorialidade enquanto síntese integradora entre o natural (sentido estrito) e o humano localizada histórica e espacialmente, o *locus *de atuação cotidiana e educativa no qual ocorre a transformação das relações sociais na natureza.
+
+A cotidianidade se refere ao lugar ocupado e habitado pela pessoa, àquilo que nos fornece um ponto concreto a partir do qual exercitamos nossa cidadania diariamente, nos relacionamos com sujeitos, em que procuramos a coerência entre desejos, pensamentos e atitudes. Cotidianidade não é rotina (fazer por fazer e de modo repetitivo), mas o espaço imediato de realização e desenvolvimento do indivíduo. As grandes transformações históricas só se concretizam quando são incorporadas ao modo de vida das pessoas e à sua existência cotidiana, vinculando o particular ao público, o microssocial ao macrossocial. Segundo Gadotti (2003: 24):
+
+*“É no cotidiano que podemos aprender a nos olhar, aprender a falar, a ouvir, a ver, a viver uma vida banal ou não. A banalidade está em não reconhecer o valor de cada instante, a só atribuirmos valor aos grandes momentos, aos momentos ‘heróicos’ da vida.”*
+
+Cotidianidade e territorialidade são conceitos-chave pois, ao nos referimos ao processo educativo, precisamos entender onde cada educador e educando se situa (comunidade, família, classe social, cultura regional, individualidade) de modo a promovermos uma prática que seja simultaneamente específica e universal, que reconheça a diversidade na busca da igualdade, evitando um “educar para todos” que desconsidere os sujeitos concretos.
+
+Assim entendido, quando objetivamos educar para explicitar as condições de vida, a realidade existente, transformando-a, faz sentido destacar os grupos sociais em situação de maior vulnerabilidade ambiental como meio para redefinir as relações sociais que estabelecem os padrões de inclusão e exclusão, democratizando, intervindo e entendendo a sociedade em suas contradições. Além desse aspecto, destacamos que o processo desencadeado com tal posicionamento perante a sociedade é indissociável das ações capazes de tornar a Educação Ambiental uma política de governo democrática e universalista, consolidada nacionalmente.
+
+Em termos conceituais, cabe esclarecer que, por estado de vulnerabilidade socioambiental, entendemos a situação de grupos específicos que se encontram: (1) em maior grau de dependência direta dos recursos naturais para produzir, trabalhar e melhorar as condições objetivas de vida; (2) excluídos do acesso aos bens públicos socialmente produzidos; e (3) ausentes de participação legítima em processos decisórios no que se refere à definição de políticas públicas que interferem na qualidade do ambiente em que se vive.
+
+A finalidade de uma Educação Ambiental que incorpore a perspectiva dos sujeitos sociais excluídos não é a de reforçar as desigualdades de classes, mas, por meio do reconhecimento de que elas existem, estabelecer uma Educação Ambiental contextualizada e crítica, que explicite os problemas estruturais de nossa sociedade e as causas básicas do baixo padrão qualitativo da vida que levamos. Concordando com Gould (2004), é por meio da intervenção política no funcionamento excludente e desigual das economias capitalistas que
+
+os grupos sociais em situação de vulnerabilidade podem ampliar a democracia e a cidadania, invertendo o processo de degradação das bases que possibilitam a vida no planeta. Sem dúvida, evidenciamos nosso amadurecimento intelectual quando não naturalizamos, reificamos ou homogeneizamos a realidade, sendo capazes de agirmos conscientemente no próprio movimento contraditório que é a história.
+
+## Ambiente e Conflito Ambiental
+
+O conceito de ambiente aqui adotado expressa um espaço percebido, com diferentes escalas de compreensão e intervenção, em que se operam as relações sociedade-meio natural. Exprime uma totalidade, que só se concretiza à medida que é preenchido pelos sujeitos individuais e coletivos com suas visões de mundo (Gonçalves, 1989 e 2000). O ambiente não é o espaço natural independente da ação social, mas o resultado de interações múltiplas e complexas, mutáveis e dinâmicas, limitadas em recortes espaço-temporais que permitem a construção do sentido de localidade, territorialidade, identidade, pertencimento e de contextualização para os sujeitos individuais e coletivos.
+
+Em uma perspectiva crítica de Educação Ambiental, a degradação das condições de sustentação da vida planetária deve-se a um conjunto de variáveis interconexas que se dão em bases sociais, econômicas, culturais e políticas estruturalmente desiguais, que conformam a sociedade contemporânea. Tal estrutura faz com que o processo de exposição aos problemas ambientais, bem como a definição e percepção destes, também sejam diferentemente constituídos e distribuídos.
+
+Precisamos avançar na compreensão da relação entre desigualdade na exposição aos riscos ambientais e justiça social. Para isso, é fundamental o reconhecimento do patrimônio natural como bem coletivo, que deve ser gerido de forma sustentável, democrática e inclusiva. Esta postura, evidentemente, articula-se com a consolidação da percepção do uso e conservação dos bens naturais como parte de um processo social e econômico de concertação e confronto de interesses, de reconhecimento de identidades políticas, de participação cívica e de construção de valores democráticos nas decisões sobre a vida comum, ampliando a capacidade da sociedade reverter a lógica produtiva das injustiças ambientais, entendidas como:
+
+“*a condição de existência coletiva própria a sociedades desiguais onde operam mecanismos sociopolíticos que destinam a maior carga dos danos ambientais do desenvolvimento a grupos sociais de trabalhadores, populações de baixa renda, segmentos raciais discriminados, parcelas marginalizadas e mais vulneráveis da cidadania*” (Acselrad et al, 2004: 10).
+
+Não há democracia nem educação para a cidadania sem a explicitação de conflitos. A aceitação de que a sociedade além de plural é permeada por visões de mundo, interesses e necessidades distintas e estruturalmente antagônicas está implícita em processos efetivamente democráticos, nos quais se incluem as oposições, tensões e contradições entre direitos e deveres, indivíduo e coletividade, público e privado, liberdade e igualdade. Uma “pedagogia do consenso” que desconsidere estes aspectos tende a secundarizar o caráter processual, coletivo e participativo da ação dialógica em educação. E mais, no que se refere especificamente à Educação Ambiental, definir a priori um estado de “harmonia com a natureza” a ser buscado por todos, pressupõe a idealização de algo atemporal e a-histórico, a existência de um estado perfeito pouco defensável quando se pensa e conhece a dinâmica das sociedades humanas no planeta.
+
+Por conflitos ambientais, entendemos como sendo aqueles que envolvem:
+
+“.*.. grupos sociais com modos diferenciados de apropriação, uso e significação do território, tendo origem quando pelo menos um dos grupos tem a continuidade das formas que adotam de apropriação do meio ameaçada pelos impactos indesejáveis decorrentes das práticas de outros grupos. O conflito pode derivar da disputa por apropriação de uma mesma base de recursos ou de bases distintas, mas interconectadas por interações ecossistêmicas mediadas pela atmosfera, pelo solo, pelas águas etc. O tipo de conflito que aqui identificamos tem por arena uma mesma unidade territorial compartilhada por um conjunto de atividades cujo*
+
+*´acordo simbiótico´ é rompido em função da denúncia dos efeitos indesejáveis que a atividade de um dos agentes produz sobre as condições materiais do exercício das práticas de outros agentes*.” (Acselrad, 2003: 03).
+
+Todavia, o reconhecimento de que a sociedade é constituída por conflitos, não significa, em uma perspectiva democrática e dialógica, que não ocorram negociações e busca de
+
+consensos que resultem na resolução de um problema identificado, mas sim compreender que os acordos se dão em uma base conflitiva na qual nos movemos e que a capacidade de buscar o diálogo, a aproximação e o respeito define o amadurecimento da participação social e política existente em uma sociedade. O diálogo não elimina as contradições, mas as pressupõem. O outro, pressuposto para que se dê o diálogo, gera a incerteza, a necessidade de reflexão, de empatia e de transformação permanente dos valores culturais e condições de existência. E é esse nosso movimento de objetivação pela ação no mundo, que se dá pela intersubjetivação, pelo esforço de maior compreensão mútua, que faz com que a liberdade de se afirmar ocorra mediante o reconhecimento da necessidade do outro.
+
+## Educação Ambiental e Estratégias Participativas
+
+A participação é um processo que gera a interação entre diferentes atores sociais na definição do espaço comum e do destino coletivo. Em tais interações, como em quaisquer relações humanas, ocorrem relações de poder que incidem e se manifestam em níveis distintos em função dos interesses, valores e percepções dos envolvidos.
+
+A participação é a promoção da cidadania, a realização do sujeito histórico, o instrumento por excelência para a construção do sentido de responsabilidade e de pertencimento a um grupo, classe, comunidade e local (Bauman, 2000). Num certo sentido rousseauniano, a participação é o cerne do processo educativo, pois desenvolve a capacidade do indivíduo ser “senhor de si mesmo”.
+
+Sob um enfoque emancipatório da Educação Ambiental, se a participação local e comunitária estiver orientada para reivindicações específicas que não sejam vistas como parte orgânica da “grande política”, corre-se o risco desta ser integrada ao sistema sociopolítico vigente ou a encontrar soluções fragmentadas e isoladas, sem implicações societárias. São os recorrentes casos de “experiências bem sucedidas” ou “exemplares” que se esgotam em si. Apesar de válidas, não obtém ressonância nas políticas de governo e suas estratégias de desenvolvimento econômico, dificultando a articulação e a replicação destas junto a processos macropolíticos de reversão do quadro de mercantilização da vida observado no capitalismo globalizado.
+
+Assim, a busca por novas formas de governabilidade democrática passa pelo poder local e pela ampliação da esfera pública, pois é a ação na territorialidade local, articulada às
+
+questões políticas do Estado-Nação, que torna os conflitos e tensões mais visíveis e permite aos atores sociais se relacionarem mais intensamente, tornando o processo de reconfiguração das formas políticas e culturais e a concertação entre os envolvidos uma tarefa árdua, mas qualitativamente indispensável para a mudança de padrões societários.
+
+Em termos de procedimentos metodológicos que permitam trabalhar com tais premissas, considerando que os documentos nacionais e internacionais sobre Educação Ambiental destacam a participação como um dos seus pressupostos indissociáveis (Loureiro, 2003), e considerando as formulações encontradas em Pedrini (1997), somos por afirmar que as metodologias participativas são as mais propícias ao fazer educativo ambiental. Inauguradas nas ações políticas e de pesquisas sociais inseridas no campo da teoria marxista em finais do século XIX, ampliadas no decorrer do século XX, no campo da educação, com as práticas de educação popular e o uso da pesquisa-ação e da pesquisa participante, compuseram-se em uma variedade de estilos participativos (Alves-Mazzotti, 1998; Thiollent, 1987; Minayo, 1996) cuja descrição não cabe no presente artigo. Contudo, no geral, podemos indicar que são objetivos norteadores das metodologias participativas em educação:
+
+- Conduzir a ação educativa no sentido do crescente comprometimento com a melhoria da qualidade de vida;
+- Conduzir  os  problemas  da  educação  de  maneira  integrada,  em processo participativo das forças sociais locais;
+- Conduzir a ação educativa dentro de uma perspectiva de educação permanente, a partir da formação de consciência crítica;
+- Conduzir a ação educativa de modo a apoiar e estimular a manifestação de indivíduos e grupos na transmissão e recriação do patrimônio cultural;
+- Vincular os processos educativos com as atividades econômicas e políticas.
+
+Em termos de operacionalização desses objetivos que norteiam as metodologias participativas, na prática educativa voltada para a resolução dos conflitos cotidianos e concretos, é oportuno levar em consideração alguns aspectos no planejamento pedagógico das atividades (Fundación Foro Nacional por Colombia, 2001):
+
+- Reconhecer o problema como algo construído na dinâmica social e integrante da realidade, suas causas, interesses e argumentos produzidos pelas partes envolvidas.
+- Explicitar os posicionamentos distintos e suas implicações sociais e políticas.
+- Saber se colocar no lugar do outro.
+- Ter o diálogo como princípio indissociável do processo.
+- Atacar o problema e não as pessoas em suas individualidades.
+- Assumir uma postura de cooperação, solidariedade e respeito.
+- Usar a criatividade e o conhecimento disponível para encontrar alternativas.
+- Estabelecer mecanismos de avaliação coletiva das alternativas criadas, a partir de critérios definidos e aceitos consensualmente pelos atores sociais.
+- Negociar as bases que assegurem o cumprimento do que for acordado, construindo o senso de responsabilidade e de convivência democrática.
+
+A concretização desses aspectos é em si expressão de uma aprendizagem conjunta e de vivência democrática em sociedade, fundamentais ao ato de educar, posto que compreendemos a Educação como:
+
+“... *uma prática social cujo fim é o aprimoramento humano naquilo que pode ser aprendido e recriado a partir dos diferentes saberes existentes em uma cultura, de acordo com as necessidades e exigências de uma sociedade. Atua, portanto, sobre a vida humana em dois sentidos: (1) desenvolvimento da produção social, inclusive dos meios instrumentais e tecnológicos de atuação no ambiente; (2) construção e reprodução dos valores culturais*.” (Loureiro, Azaziel e Franca, 2003-a: 12).
+
+O que foi dito até aqui são categorias gerais para um fazer participativo em Educação Ambiental que considere o “lugar” a partir do qual cada grupo social interage no ambiente. Servem como subsídios à construção de estratégias não-formais, numa abordagem educacional inclusiva e dialógica.
+
+## Educação Ambiental, Espaço Público e Política Pública
+
+O espaço público é aquele em que nos reconhecemos, discutimos e decidimos. É aí que se constrói um mundo comum e múltiplo, posto que reflete as perspectivas diferenciadas dos cidadãos. É o espaço do exercício da política por meio do diálogo e da negociação (Acselrad, 1993), garantindo a substantividade da democracia e a institucionalização de canais diretos de decisão sobre os destinos coletivos para além dos mecanismos formais encontrados nos modelos clássicos de democracia liberal. Atualmente, são exemplos de espaços públicos instituídos e voltados para a “questão ambiental”, a partir dos quais cabe a atuação educativa ambientalista: conselhos setoriais, temáticos ou de gestão de unidades territoriais; Agenda 21 comunitária, local, regional, municipal, estadual e nacional; fóruns temáticos ou populares; comitês gestores de bacias hidrográficas; e comissões paritárias. Em síntese, quando pensamos em espaços de participação social como estes, pressupomos que lutas coletivas contra as agressões ambientais e pelo respeito aos direitos da população são lutas pela garantia do caráter público do ambiente e pela ampliação da democracia.
+
+No processo contraditório, plural e dinâmico que caracteriza a história de formação do Estado brasileiro, o poder público, ao estabelecer suas políticas ambientais, explicita o sentido de sustentabilidade que assume. E, por meio de seus canais institucionais e normativos, marca os processos de mediação de interesses e de conflitos entre diferentes grupos e classes pelo uso e acesso ao patrimônio natural, bem como pela orientação política e ideológica hegemonizada. Isso significa afirmar que toda e qualquer política pública, mesmo realizada em nome do bem comum e do interesse coletivo, não é neutra, pois ao decidir a destinação de determinados recursos materiais estabelece quem ganha e quem perde no processo (Quintas e Gualda, 1995).
+
+Políticas Públicas podem ser definidas como ações planejadas de governo, enquanto instância do Estado capaz de operacionalizar políticas universalistas, includentes e igualitárias. Estas se baseiam, em uma sociedade democrática, na construção coletiva e participativa, envolvendo os agentes sociais representativos de determinada problemática ou tema. Normalmente, a viabilidade destas se sustentam em dois pilares: (1) a busca constante de diálogo, apoio dos envolvidos e obtenção de consenso quanto às diretrizes, aumentando o grau de aprovação e capacidade de implementação; (2) a definição de normas, instâncias públicas deliberativas e procedimentos para a solução dos conflitos e situações imprevistas que surgem no processo.
+
+Considerando os aspectos mencionados e o atual cenário da Educação Ambiental no país, inferimos que, apesar da mobilização dos educadores ambientais e da aprovação da Lei que define sua Política Nacional, esta ainda não se consolidou em termos de política pública de caráter democrático e universal, o que, inclusive, justifica os recentes encaminhamentos em âmbito federal. Contudo, no atual governo está sendo possível, não sem tensionamentos internos, construir espaços de diálogo que envolvem redes, universidades, Ministério do Meio Ambiente e Ministério da Educação; além de se ter conseguido a implantação do Órgão Gestor da Política Nacional de Educação Ambiental, prevista em Lei desde 1999<sup>2</sup>. Tal feito, cabe ressaltar, apenas sinaliza em determinada direção, mas não pode ser entendido como a certeza de que a teremos como política pública nacionalmente consolidada, principalmente se considerarmos que as orientações econômicas voltadas para os interesses do mercado continuam dominantes, mesmo em um governo relativamente disposto ao diálogo com os movimentos sociais.
+
+Assim, para a viabilização de ações locais baseadas nos conceitos trabalhados no artigo, no sentido de se evitar que cada experiência meritória pela iniciativa e pela coerência interna se esvazie de sentido social ou seja algo válido em si mas sem possibilidade de se desdobrar por falta de uma política pública efetiva, é estratégico criarmos canais e processos coletivos que propiciem:
+
+- A transversalização do *ambiental *em todas as esferas do Estado e seu aparato, aproximando as políticas dos ministérios centrais às do Ministério do Meio Ambiente; e a qualificação dos servidores públicos, problematizando o modo como enxergam a “questão ambiental” e ampliando a compreensão desta.
+- A garantia de estrutura material nos Ministérios do Meio Ambiente e da Educação e de infra-estrutura de apoio ao Órgão Gestor da Política Nacional de Educação Ambiental, como condição elementar para a implementação de programas de alcance nacional.
+- O estabelecimento de canais de diálogo e acompanhamento do Órgão Gestor da Política Nacional de Educação Ambiental e seu Comitê Assessor, tendo por foco as
+
+<sup>2</sup> Em termos de precisão e correção histórica, é importante dizer que a regulamentação da Lei Federal e seu Órgão Gestor foram feitas em junho de 2002, portanto, no final da gestão Fernando Henrique Cardoso. Contudo, o que ressaltamos é que o efetivo funcionamento desta instância começou a ocorrer no governo Lula.
+
+ONGs, movimentos sociais, organizações populares e instituições acadêmicas, por meio da criação de veículos de divulgação de informações, realização de eventos nacionais e fortalecimento de fóruns regionais e redes.
+
+- A ampliação de fundos ambientais nas três esferas de governo, estabelecendo democraticamente prioridades de investimento de recursos públicos e privados.
+- A priorização e consolidação de programas que articulem a educação formal com a não-formal e a informal, num processo educativo popular e permanente.
+- A aproximação entre redes e movimentos coletivos de educadores ambientais e outras frentes democráticas que buscam redefinir o modelo de Estado e de sociedade (rede de justiça ambiental, de ecossocialistas e de jornalistas ambientais; movimento sindical; movimentos de trabalhadores rurais; movimento de reforma urbana; Fórum Social Mundial etc.).
+- A maior articulação e diálogo dos educadores ambientais com os setores que classicamente debatem e influenciam a Política Nacional de Educação.
+
+## Considerações Finais
+
+A Educação Ambiental é múltipla em conceitos e abordagens e criativa no seu fazer pelo país. A nossa intenção nesse texto foi basicamente a de apresentar premissas conceituais e metodológicas e sinalizar para estratégias de ação política que se inserem no âmbito de uma práxis educativa e ambientalista que seja transformadora das condições de vida dos grupos sociais. Nesse sentido, procuramos destacar conceitos estruturantes de uma Educação Ambiental emancipatória e voltada para a gestão democrática em unidades territoriais definidas, que permitem um fazer educativo participativo e inclusivo, contrapondo-nos às concepções de Educação Ambiental dualistas entre o social e o ambiental e às posturas politicamente conservadoras que reforçam uma lógica excludente e discriminadora de culturas populares.
+
+Chamamos a atenção para a necessidade de se considerar os espaços públicos, possíveis de serem instituídos no contexto da política ambiental do país, como excelentes oportunidades de articulação política e ação educativa, por meio dos quais se pode gerir conflitos, estabelecer negociações, questionar a realidade, e aprofundar nossa aprendizagem constante
+
+no que refere ao outro, encontrando coletivamente as melhores alternativas para cada situação concreta.
+
+Por fim, buscamos elencar alguns pontos que estão na pauta de debates dos educadores ambientais, a partir de determinado entendimento de política pública, que podem ajudar a construir caminhos que consolidem no Brasil uma Educação Ambiental que consiga articular organicamente as ações locais às estratégias nacionais e regionais e que esteja vinculada às políticas de Educação e projetos de transformação societária.
+
+## Referências Bibliográficas
+
+ACSELRAD, H. **Ecologia. Direito do Cidadão**. Rio de Janeiro: Gráfica JB, 1993.
+
+ACSELRAD, H. Conflitos Ambientais revelam onde o Desenvolvimento Emperra. **Justiça Ambiental**. Ano 1, n. 02, págs. 02-03, novembro de 2003.
+
+ACSELRAD, H.; HERCULANO, S.; PÁDUA, J. A. (orgs.). **Justiça Ambiental e Cidadania**. Rio de Janeiro, Relume Dumará, 2004.
+
+ALVES-MAZZOTTI, A J. e GEWANDSZNADJER, F. **O Método nas Ciências Naturais e Sociais**. São Paulo: Pioneira, 1998.
+
+BAUMAN, Z. **Em Busca da Política**. Rio de Janeiro: Jorge Zahar Editor, 2000.
+
+CARVALHO, I. C. de M. **A Invenção ecológica **– Narrativas e trajetórias da Educação Ambiental no Brasil. Rio Grande do Sul: EDUFRGS, 2001.
+
+FREIRE, P. **Pedagogia do Oprimido**. Rio de Janeiro: Paz e Terra, 1988.
+
+FUNDACIÓN FORO NACIONAL POR COLOMBIA. **Conflicto, Convivencia y Democracia. **Colômbia, 2001.
+
+GADOTTI, M. **Dialética do Amor Paterno**. São Paulo: Cortez, 2003, 6ª edição.
+
+GONÇALVES, C. W. P. **Os (Des)Caminhos do Meio Ambiente**. São Paulo: Contexto, 1989.
+
+GONÇALVES, C. W. P. Natureza e sociedade: elementos para uma ética da sustentabilidade. In: QUINTAS, J.S. **Pensando e Praticando a Educação Ambiental na gestão do meio Ambiente**. Brasília: IBAMA, 2000.
+
+GOULD, K. A. Classe social, justiça ambiental e conflito político. In: ACSELRAD, H.; HERCULANO, S.; PÁDUA, J. A. (orgs.). **Justiça Ambiental e Cidadania**. Rio de Janeiro, Relume Dumará, 2004.
+
+KONDER, L. **O Futuro da Filosofia da Práxis**. Rio de Janeiro: Paz e Terra, 1992. 2ª edição.
+
+LIMA, G. F. C. Crise Ambiental, Educação e Cidadania. In: LOUREIRO, C.F.B., LAYRARGUES, P.P. &amp; CASTRO, R. S. (orgs.). **Educação Ambiental**: repensando o espaço da cidadania. São Paulo: Cortez, 2002.
+
+LOUREIRO, C. F. B. Teoria Social e Questão Ambiental: Pressupostos para uma Práxis Crítica em Educação Ambiental. In: LOUREIRO, C.F.B., LAYRARGUES, P.P. &amp; CASTRO, R. S. (orgs.). **Sociedade e Meio Ambiente**: a educação ambiental em debate. São Paulo: Cortez, 2000.
+
+LOUREIRO, C. F. B. Educação Ambiental e Movimentos Sociais na Construção da Cidadania Ecológica e Planetária. In: LOUREIRO, C. F. B.; LAYRARGUES, P. P. e CASTRO, R. S. de. **Educação Ambiental***: *repensando o espaço da cidadania. São Paulo: Cortez, 2002.
+
+LOUREIRO, C. F. B. (org.) **Cidadania e Meio Ambiente**. Salvador: Centro de recursos Ambientais, 2003.
+
+LOUREIRO, C. F. B., AZAZIEL, M. e FRANCA, N. **Educação Ambiental e Gestão Participativa em Unidades de Conservação**. Rio de Janeiro: Ibama/Ibase, 2003-a.
+
+LOUREIRO, C. F. B. **Trajetória e Fundamentos da Educação Ambiental**. São Paulo: Cortez, 2004.
+
+MINAYO, M. C. S. **Pesquisa Social**. Petrópolis: Vozes, 1996.
+
+PEDRINI, A de G. (org.) **Educação Ambiental**: Reflexões e Práticas Contemporâneas. Petrópolis: Vozes, 1997.
+
+QUINTAS, J.S e GUALDA, M.J. **A Formação do Educador para Atuar no Processo de Gestão Ambiental. **Brasília: Edições IBAMA, 1995.
+
+ROCCO, R. **Legislação Brasileira do Meio Ambiente**. Rio de Janeiro, DP&amp;A, 2002. SAVIANI, D. **Escola e Democracia**. São Paulo: Cortez, 1989, 22<sup>a</sup> edição.
+
+THIOLLENT, M. **Crítica Metodológica, Investigação Social e Enquete Operária**. São Paulo: Polis, 1987.
