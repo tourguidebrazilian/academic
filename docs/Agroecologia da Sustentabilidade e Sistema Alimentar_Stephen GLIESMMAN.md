@@ -1,0 +1,392 @@
+---
+titulo: "3.2 - Agroecologia da Sustentabilidade e Sistema Alimentar_Stephen GLIESMMAN"
+tamanho_bytes: 59134
+data_conversao: "2026-10-05T23:39:52.231Z"
+ferramenta: "Conversor Acadêmico Real"
+---
+
+**AGROECOLOGIA: A ECOLOGIA DA SUSTENTABILIDADE E SISTEMAS ALIMENTARES**
+
+Stephen R. Gliessman<br />Com a colaboração de Eric W. Engles
+
+*Informações da Fonte:<br />Obra original: Agroecology: The Ecology of Sustainable Food Systems (Terceira Edição)<br />Editora: CRC Press / Taylor &amp; Francis Group<br />Ano de publicação: 2015<br />Transcrição e Tradução adaptada para fins acadêmicos e profissionais*
+
+**PREFÁCIO**
+
+Não confunda isto com um simples livro didático. Você tem em mãos a chave para fazer a diferença. Se a vida se resume a compreender o tempo em que vivemos e, portanto, o que devemos fazer com ela, então este tesouro de conhecimento científico e sabedoria social acumulados por Stephen Gliessman certamente será um passo fundamental. Isso porque Steve apresenta metodicamente o resultado de quatro décadas de experiência e reflexões, conectando a ciência ao propósito, à ação e ao significado.
+
+Com poucas exceções, as abordagens da agricultura focar-se nos métodos sobre como se faz algo e não nas questões substantivas de toda a atividade humana: o que fazemos e por que fazemos algo. Tratores, fertilizantes e sementes modificadas são exemplos de algumas das maneiras como praticamos a agricultura. Fome, poder e desigualdade são exemplos de atributos dos sistemas agrícolas e alimentares e, portanto, é importante compreender plenamente o contexto antes de adotar, sem questionamentos, métodos e práticas.
+
+Existem alternativas ao atual sistema industrial de alimentos e agricultura? É sobre isso que trata este livro. Se você se interessa por sistemas agrícolas e alimentares gerenciados a longo prazo, mais inclusivos, que buscam objetivos mais sábios e, portanto, convergem para métodos diferentes, este livro será um guia inestimável. Ele apresenta uma argumentação concisa em defesa de uma compreensão alternativa dos sistemas agrícolas e alimentares, em oposição a metodologias padronizadas. Um campo agrícola não é uma fábrica a céu aberto, com insumos e produtos supostamente compreendidos e calculados com precisão em uma extremidade e maximizados na outra, avaliados pela quantidade de dinheiro que se pode extrair da produção. Em vez disso, você entenderá uma fazenda como um recorte de muitos processos a serem compreendidos e integrados, onde existem múltiplos objetivos, e onde a resiliência perpétua é o atributo chave, pois é assim que todos os componentes têm o melhor desempenho a longo prazo. Isso inclui a nós mesmos, já que, afinal, os seres humanos não podem existir sem ecossistemas que os sustentem.
+
+E devo ressaltar que esta síntese envolve ciência rigorosa, da qual você desfrutará imensamente. Um dos encantos da agroecologia é que ela oferece uma resposta à pergunta lógica que intriga todos os exploradores do conhecimento humano sobre por que devemos aprender isso. Aqui, você encontrará a recompensa pelos estudos básicos que realizou. Física, bioquímica e matemática se unem perfeitamente à economia, sociologia e ciência política para tornar mais claras as questões que nos interessam. Como exemplo, considere uma pergunta fundamental que se aplica a todos os empreendimentos humanos sobre por quanto tempo podemos continuar fazendo as coisas desta maneira. Esta é a questão da sustentabilidade, e ela só pode ser enfrentada de forma competente combinando conhecimentos de diversas áreas do saber e da experiência humana. Você verá isso ao longo deste livro, mas particularmente em torno de tópicos como a iminente escassez de fósforo, a noção de multifuncionalidade e paisagens integradas, e a contextualização do movimento por justiça alimentar.
+
+Gliessman é um dos maiores mestres mundiais dessa abordagem integrada e um dos melhores exemplos da expertise que Robert Rodale chamou de metassistemática, a compreensão de como os sistemas em movimento perpétuo se relacionam e se afetam mutuamente. Todos fazemos parte de uma cultura humana, incluindo nosso sistema alimentar, que se estabeleceu numa visão predominante da vida como domínio sobre a natureza e outras pessoas. Os impactos negativos desse domínio são mais evidentes nas condições injustas enfrentadas por muitas pessoas na força de trabalho do sistema alimentar, desde os campos, passando pelas fábricas de processamento e embalagem, até o transporte e abastecimento das prateleiras dos mercados e o setor de serviços alimentares. Em vez de salários dignos, condições de trabalho seguras e saudáveis e leis justas que criem oportunidades e, ao mesmo tempo, permitam a realização do trabalho, temos um sistema industrial intensivo em capital que, com muita frequência, explora tanto as pessoas quanto a terra.
+
+Precisamos de um sistema alimentar que promova indicadores importantes de sustentabilidade, como equidade, justiça e satisfação para todos, em vez de um domínio que beneficia poucos. Os currículos agrícolas devem ir além da estreiteza da especialização, do reducionismo e das metodologias que enfatizam principalmente altos rendimentos e a maximização dos lucros para aqueles que detêm o poder. Mais importante do que a compreensão dos fatos são as conexões entre os fatos. Ao concluir esta exposição perspicaz, você entenderá por que a agricultura precisa ser fundamentalmente transformada, como a ciência ecológica pode ser aplicada para esse fim e como os movimentos sociais são tão essenciais para essa transformação quanto a compreensão das interações tróficas.
+
+Finalmente, este livro é uma declaração de propósito: a intenção de aplicar o conhecimento para melhorar e sustentar a dignidade da vida para todos, humanos e não humanos. Como livro, trata-se de uma investigação ambiciosa e um estudo para os corajosos e visionários, escrito por um acadêmico corajoso e visionário. Mas como um desafio intelectual e moral, nada mais é do que um chamado para uma mudança cultural de época. É hora de expandir nosso conhecimento sobre sistemas alimentares sustentáveis para além dos espaços seguros de salas de seminários e publicações acadêmicas.
+
+Precisamos de um sistema de acesso aberto que transforme o conhecimento em prática, em vez de tecnologias proprietárias pertencentes a poucos e vendidas ao resto. Devemos compreender a dinâmica do poder econômico e político e sua capacidade de limitar, moldar e controlar o sistema alimentar. Transformar o conhecimento em ação social em prol de um maior bem-estar humano é a responsabilidade fundamental dos eruditos, que consiste em compartilhar os insights que a generosidade de outros permitiu obter, em uma cadeia perpétua de significado e ação moral. Como afirmou Albert Einstein, a humanidade tem todos os motivos para colocar os proclamadores de altos padrões e valores morais acima dos descobridores da verdade objetiva. Steve Gliessman é tanto um descobreste quanto um praticante da verdade objetiva e um defensor de elevados padrões morais. Significativamente, não são apenas seus muitos ex-alunos talentosos que podem atestar isso, mas também dezenas de agricultores cuja subsistência melhorou consideravelmente porque Gliessman se dedica à ciência, ao propósito e à ação moral.
+
+*Ricardo J. Salvador, Diretor e Cientista Sênior do Programa de Alimentos e Meio Ambiente da União de Cientistas Preocupados, Washington, DC.*
+
+**INTRODUÇÃO DO AUTOR**
+
+No final da década de 1970, quando eu e um pequeno grupo de alunos e professores de uma escola de agricultura tropical em Cárdenas, Tabasco, México, discutíamos agroecologia, um termo que pensávamos ter inventado, mal sabíamos que a agroecologia se tornaria parte fundamental de um movimento por mudanças no sistema alimentar. Muita coisa aconteceu no campo da agroecologia desde aqueles primeiros tempos, e muito disso se reflete nesta terceira edição de Agroecologia, publicada originalmente em 1996.
+
+A agroecologia tornou-se conhecida como ciência, prática e parte de um movimento social focado na transformação dos sistemas alimentares para a sustentabilidade. Também ficou claro o quão importante é que esses três elementos sejam integrados de forma transdisciplinar, participativa e orientada para a ação, a fim de sermos mais eficazes na promoção das mudanças urgentemente necessárias. Agora temos a oportunidade de ir além do pensamento dos agrônomos e tecnólogos que afirmam que, simplesmente aumentando a produtividade e os lucros, seremos capazes de atender às necessidades alimentares da crescente população mundial.
+
+Quando me mudei para a Universidade da Califórnia em Santa Cruz em 1981 e iniciei o Programa de Agroecologia, outra alternativa na agricultura, a agricultura orgânica, estava apenas começando a decolar. Ela não só incorporava a abordagem ecológica que havíamos desenvolvido no México, como também servia como uma boa base a partir da qual se podia continuar a desenvolver resistência ao paradigma agrícola dominante. No início da década de 1980, produtores inovadores estavam mudando seus sistemas de cultivo para o manejo orgânico, mas, na maioria dos casos, faziam isso sem muita pesquisa de apoio para ajudá-los durante o processo de transição.
+
+À medida que os limites de uma abordagem puramente substitutiva foram atingidos, especialmente quando os produtores queriam manter o modelo de monocultura com o qual trabalhavam antes da transição, chegamos à conclusão de que era necessário um redesenho total para resistir aos problemas como doenças, ervas daninhas e insetos-praga. Isso se tornou a essência do processo de redesenho do agroecossistema que constitui o nível de conversão apresentado nesta obra. Com o tempo, percebemos que três níveis não eram suficientes, pois toda a responsabilidade recaía sobre os agricultores e na escala da propriedade rural, enquanto corporações absorviam o mercado orgânico. A adição de novos níveis de transição abrangeu a reunificação entre produtores e consumidores e, finalmente, a criação de um sistema alimentar sustentável em ampla escala social e política.
+
+**SEÇÃO I: INTRODUÇÃO À AGROECOLOGIA**
+
+Como ciência das conexões entre os seres vivos, a ecologia oferece uma perspectiva sobre a agricultura que expande imediatamente seu ecossistema muito além do arar, semear, cultivar, colher e comercializar. Na agroecologia, passamos de uma preocupação restrita às práticas agrícolas para o universo completo de interações entre plantas cultivadas, solo, organismos do solo, insetos, inimigos naturais, condições ambientais e ações de manejo, e além disso, para os efeitos dos sistemas agrícolas nos ecossistemas naturais circundantes. Expandindo isso para uma escala global, vemos a agricultura como a atividade humana que mais utiliza terra no planeta, o que nos leva a considerar os efeitos gerais da agricultura na capacidade da Terra de sustentar suas populações de humanos e outros seres vivos.
+
+Ao examinar os seres humanos como uma população específica, a perspectiva ecológica nos incentiva a analisar o mundo social, abordando temas como os padrões de consumo alimentar, a proporção entre agricultores e consumidores e a distribuição desigual de alimentos. Ao ampliarmos tanto o escopo da relevância, esperamos chegar a uma perspectiva integrada na qual a agricultura possa ser vista como um fator-chave em uma intensificação da crise que a humanidade enfrenta. A agricultura não é apenas uma das principais causas dessa crise; ela também representa um campo repleto de soluções potenciais. O objetivo fundamental desta seção é apresentar aos leitores essa perspectiva ampliada sobre a agricultura.
+
+**CAPÍTULO 1: ARGUMENTOS A FAVOR DE UMA MUDANÇA FUNDAMENTAL NA AGRICULTURA**
+
+Segundo diversas métricas, a agricultura, em escala global, apresentou uma longa sequência de sucessos extraordinários a partir do período logo após a Segunda Guerra Mundial. Durante a segunda metade do século XX, a produtividade por hectare de culturas básicas como trigo e arroz aumentou drasticamente, os preços dos alimentos caíram, a taxa de crescimento da produção de alimentos geralmente superou a taxa de crescimento populacional e a fome crônica diminuiu. Esse aumento na produção de alimentos deveu-se principalmente aos avanços científicos e às inovações tecnológicas, incluindo o desenvolvimento de novas variedades de plantas, o uso de fertilizantes e pesticidas e a expansão de extensas infraestruturas de irrigação, fatores que contribuíram para o desenvolvimento da agricultura industrial.
+
+Embora a agricultura em escala global tenha enfrentado dificuldades recentes para manter as tendências de melhoria contínua, ela permanece extraordinariamente produtiva, fornecendo alimentos em abundância para grande parte da população mundial. Graças ao excelente desempenho da agricultura industrial em entregar os produtos, muitas pessoas passaram a considerar a comida como algo garantido. Com as prateleiras dos supermercados sempre repletas de uma cornucópia de produtos comestíveis, as pessoas tendem a não refletir muito sobre o processo necessário para que esses alimentos cheguem às prateleiras. Em perspectiva histórica, essa é uma situação sem precedentes.
+
+Ironicamente, este é precisamente o momento na história da nossa espécie em que precisamos avaliar o nosso sistema alimentar com um olhar mais crítico do que nunca. O simples fato de a agricultura industrial ser capaz de gerar abundância alimentar no presente não significa que conseguirá fazê-lo a longo prazo. De fato, é hora de reconhecermos que a produtividade da agricultura industrial tem um preço alto e que essa conta eventualmente chegará. Para alcançar a produtividade alimentar que hoje consideramos garantida, o sistema industrial de produção de alimentos está sacrificando os fundamentos básicos da agricultura: solo fértil, umidade disponível, clima favorável, reciclagem de nutrientes, diversidade genética e os serviços ecossistêmicos dos sistemas naturais. Esses pré-requisitos para a produção de alimentos têm um limite de tolerância antes de começarem a falhar, colocando em risco o abastecimento alimentar do futuro.
+
+**As Práticas da Agricultura Industrial**
+
+A agricultura contemporânea se estrutura em torno de dois objetivos interligados: a maximização da produção e a maximização do lucro. Esses objetivos conferem à agricultura uma semelhança impressionante com os processos de fabricação que ocorrem nas fábricas. Em ambos os casos, os elementos da produção são reduzidos às suas formas mais simples, os processos são mecanizados para que possam ser totalmente controlados por operadores humanos, e a eficiência da produção em relação aos insumos é rigorosamente calculada.
+
+Na busca pela máxima produção e lucro, sete práticas básicas foram desenvolvidas na agricultura industrial sem levar em consideração seus custos sociais e ambientais diretos ou suas consequências não intencionais a longo prazo: cultivo intensivo, monocultura, irrigação, aplicação de fertilizantes inorgânicos, controle químico de pragas, manipulação genética e criação intensiva de animais. Cada uma é utilizada por sua contribuição individual para a produtividade, mas, em conjunto, formam um sistema interdependente.
+
+**Preparo Intensivo do Solo**
+
+A agricultura industrial baseia-se há muito tempo na prática de cultivar o solo de forma completa, profunda e regular. O objetivo desse cultivo intensivo é afrouxar a estrutura do solo para permitir melhor drenagem, crescimento radicular mais rápido, aeração e incorporação de resíduos. Ironicamente, o cultivo intensivo tende a degradar a qualidade do solo de diversas maneiras. A matéria orgânica do solo é reduzida como resultado da decomposição acelerada e da falta de cobertura vegetal, e o solo é compactado pelo tráfego constante de máquinas pesadas. A perda de matéria orgânica reduz a fertilidade e aumenta as taxas de erosão por água e vento.
+
+**Monocultura**
+
+Ao longo do último século, a agricultura em todo o mundo caminhou inexoravelmente em direção à especialização. A monocultura significa o cultivo de apenas uma cultura por campo, frequentemente em grande escala. Ela permite um uso mais eficiente de máquinas e reduz os custos operacionais imediatos, mas grandes extensões de uma mesma planta são extremamente suscetíveis a ataques devastadores de pragas e doenças específicas, exigindo proteção constante com pesticidas químicos.
+
+**Aplicação de Fertilizantes Sintéticos**
+
+Os aumentos espetaculares nas produtividades da segunda metade do século XX devem-se em grande parte ao uso generalizado de fertilizantes químicos sintéticos. Produzidos em grande escala utilizando combustíveis fósseis e minerais extraídos, esses fertilizantes fornecem nutrientes de forma rápida e uniforme. No entanto, eles permitem que os agricultores ignore a fertilidade do solo a longo prazo. Os componentes minerais são facilmente lixiviados, causando eutrofização em corpos d'água, poluição das águas subterrâneas e emissão de gases de efeito estufa como o óxido nitroso.
+
+**Irrigação**
+
+O abastecimento adequado de água é o fator limitante para a produção de alimentos em muitas partes do mundo. Embora apenas vinte por cento das terras agrícolas do mundo sejam irrigadas, essas terras produzem quarenta por cento dos alimentos. No entanto, a agricultura consome cerca de setenta por cento do consumo mundial de água doce. A superexploração de aquíferos subterrâneos e o desvio de rios causam impactos severos na hidrologia regional, subsidência do solo, intrusão de água salgada e danos profundos aos ecossistemas aquáticos.
+
+**Controle Químico de Pragas e Ervas Daninhas**
+
+Após a Segunda Guerra Mundial, os pesticidas químicos foram amplamente divulgados como a nova arma na luta contra pragas. Embora reduzam populações de pragas a curto prazo, eles também eliminam os inimigos naturais, gerando o ciclo vicioso dos pesticidas e a seleção natural para resistência em pragas e ervas daninhas, o que exige aplicações cada vez mais pesadas e tóxicas. Além disso, os resíduos químicos contaminam o solo, a água e afetam seriamente a saúde humana e a biodiversidade.
+
+**Manipulação de Genomas de Plantas e Animais**
+
+Os avanços tecnológicos revolucionaram a manipulação genética, desde sementes híbridas até organismos geneticamente modificados ou transgênicos. Embora promovidas como soluções para aumentar a produtividade e tolerar condições adversas, essas tecnologias criam dependência corporativa, reduzem a agrobiodiversidade e frequentemente resultam no surgimento de superervas daninhas resistentes a herbicidas e insetos resistentes a toxinas biológicas.
+
+**Criação Intensiva de Animais**
+
+A criação intensiva de animais em grandes operações confinadas prioriza a eficiência máxima e o menor custo unitário. Os animais são mantidos em condições de superlotação, recebendo antibióticos e rações altamente processadas. O descarte de enormes volumes de dejetos animais gera graves problemas de poluição de águas e da atmosfera, além de representar preocupações éticas consideráveis em relação ao bem-estar animal.
+
+**POR QUE A AGRICULTURA INDUSTRIAL É INSUSTENTÁVEL**
+
+As práticas da agricultura industrial comprometem a produtividade futura em favor de ganhos de curto prazo. Recursos críticos como solo, água e diversidade genética são sobrecarregados e degradados, gerando custos externalizados que são temporariamente ignorados pela sociedade, mas que conduzem inevitavelmente a crises ecológicas e sociais profundas. A reversão deste modelo através da agroecologia representa o caminho indispensável para garantir a sustentabilidade alimentar e a preservação do planeta para as futuras gerações.
+
+**AGROECOLOGIA: A ECOLOGIA DOS SISTEMAS ALIMENTARES SUSTENTÁVEIS**
+
+Capítulos Selecionados: Solo, Água no Solo e Fogo<br />Fonte: Obra traduzida e adaptada sobre Agroecologia e Sustentabilidade
+
+**ANDERSON ROSA<br />São Paulo - SP<br />2026**
+
+**GESTÃO SUSTENTÁVEL DO SOLO**
+
+O fato de o mundo não separar os resíduos humanos dos industriais, contaminando o lodo resultante com quantidades tóxicas de metais pesados, complica imensamente o processo. Contudo, o esgoto certamente se tornará um recurso mais importante no futuro como fonte de matéria orgânica, nutrientes e água para a produção agrícola. Muitas práticas tradicionais e de pequena escala para transformar o esgoto em um recurso útil podem servir como uma base importante para futuras pesquisas sobre essa importante ligação com a sustentabilidade.
+
+**Outros corretivos de solo**
+
+Uma variedade de outros tipos de corretivos orgânicos para o solo também pode ser utilizada. Humatos, algas marinhas, farinha de peixe, subprodutos animais, guano extraído de minas e outros estão disponíveis no mercado. Cada um possui aplicações específicas, vantagens e desvantagens, bem como escalas de uso ideais. Cada fonte de matéria orgânica precisa ser avaliada quanto à resposta da cultura a curto prazo, mas, mais importante, quanto às possíveis contribuições a longo prazo para o desenvolvimento e a manutenção da matéria orgânica do solo.
+
+**Esgoto**
+
+Uma fonte final de matéria orgânica - subutilizada, exceto em algumas partes do mundo - é o esgoto. Para completar os ciclos de nutrientes, os nutrientes que saem da fazenda devem, em última instância, retornar à fazenda. Se puderem retornar em forma orgânica, também contribuirão para o processo de formação do solo.
+
+O material sólido removido das águas residuais durante o tratamento, conhecido como lodo de esgoto, tem sido espalhado no solo há décadas. Em percentagem do peso seco, o lodo de esgoto pode conter de 6% a 9% de nitrogênio, de 3% a 7% de fósforo e até 1% de potássio. Pode ser aplicado na forma de torta ou grânulos secos, com um teor de água de 40% a 70%, ou como uma pasta líquida com 80% a 90% de água. O lodo de esgoto é amplamente utilizado em gramados, pastagens degradadas e até mesmo no solo sob árvores frutíferas. A porção líquida do esgoto tratado, conhecida como efluente, tem sido aplicada no solo há muito tempo na Europa e em locais selecionados nos Estados Unidos. Algumas cidades operam o que se chama de fazendas de esgoto, onde o efluente é usado para produzir plantações, geralmente ração animal e forragem, o que compensa parcialmente o custo do descarte, enquanto em outros casos é usado para irrigação de campos de golfe, paisagismo de rodovias e até florestas.
+
+No entanto, ainda há muito a aprender sobre como tratar o esgoto para que os patógenos sejam eliminados adequadamente. A coleta, o tratamento e o transporte precisam ser analisados com foco no objetivo de integrar a gestão de resíduos à agricultura sustentável.
+
+**Reduzindo a Intensidade do Preparo do Solo**
+
+Na agricultura, a sabedoria convencional diz que o solo deve ser cultivado para controlar ervas daninhas, incorporar matéria orgânica e permitir o crescimento das raízes. Apesar de seus benefícios potenciais, o cultivo pode degradar a estrutura do solo, reduzir o teor de matéria orgânica, perturbar a biota do solo, simplificar a teia alimentar do solo e fazer com que o solo perca alguns dos elementos de produtividade. Por essas razões, prestar atenção à forma como o solo é cultivado deve ser parte integrante do manejo da biota do solo e da matéria orgânica do solo.
+
+Existem muitos padrões diferentes de preparo do solo, mas o principal padrão empregado na agricultura convencional é um processo de três etapas que envolve uma aração profunda para revolver o solo, uma aração secundária para preparar o leito de semeadura e, finalmente, cultivos pós-plantio para o controle de ervas daninhas. Erosão do solo, perda da boa estrutura do solo e lixiviação de nutrientes são problemas bem conhecidos associados a esse padrão de preparo.
+
+Técnicas alternativas de cultivo, muitas delas emprestadas de práticas agrícolas tradicionais, foram desenvolvidas e testadas em sistemas convencionais de cultivo anual. Estas demonstraram que os sistemas de cultivo anual não precisam permanecer dependentes de cultivo extensivo e repetido e que o cultivo mínimo pode ajudar a melhorar a qualidade e a fertilidade do solo (El Titi 2002; Magdoff e Van Es 2009).
+
+**Diversificando os Sistemas de Cultivo**
+
+A diversidade do agroecossistema acima do solo está diretamente ligada à diversidade do ecossistema abaixo do solo. Quando há mais tipos de plantas cultivadas, há maior diversidade na serapilheira, nos exsudatos vegetais e nos padrões de enraizamento; essa diversidade cria um maior número de habitats subterrâneos e uma gama mais ampla de condições ambientais, o que promove maior riqueza de espécies na biota do solo.
+
+<table><tr><td>**Prática de Manejo**
+
+</td><td>**Impacto na Estrutura do Solo**
+
+</td><td>**Sustentabilidade a Longo Prazo**
+
+</td></tr><tr><td>Preparo Convencional (Aração)
+
+</td><td>Degradação da estrutura e erosão
+
+</td><td>Baixa sustentabilidade sem correções
+
+</td></tr><tr><td>Plantio Direto
+
+</td><td>Preservação de agregados e porosidade
+
+</td><td>Alta sustentabilidade e retenção de umidade
+
+</td></tr><tr><td>Cultivo em Camalhões
+
+</td><td>Mínima perturbação e controle de ervas
+
+</td><td>Excelente conservação da biota do solo
+
+</td></tr></table>**ÁGUA NO SOLO**
+
+A água flui continuamente pelo corpo da planta: saindo pelos estômatos através da transpiração e entrando pelas raízes. Por essa razão, as plantas dependem de uma certa quantidade de água disponível para suas raízes no solo. Sem umidade adequada no solo, elas murcham e morrem rapidamente. Assim, manter umidade suficiente na rizosfera - a parte do solo infiltrada pelas raízes das plantas - é crucial para o manejo do agroecossistema.
+
+**Movimento da Água no Solo**
+
+Nos ecossistemas naturais, a água entra no sistema como chuva ou derretimento de neve na superfície do solo. Nos agroecossistemas, a água entra pelas mesmas fontes ou é adicionada por meio da irrigação. O manejo sustentável da umidade do solo depende muito da compreensão do destino dessa água aplicada, com o objetivo de maximizar a eficiência do uso da água pelo sistema.
+
+**Infiltração e Percolação**
+
+Para que a água que cai ou é aplicada na superfície do solo se torne disponível para as plantas, ela precisa infiltrar-se no solo. Uma vez que as camadas superiores do solo estejam saturadas, as forças gravitacionais começam a puxar o excesso de água para camadas mais profundas do perfil do solo, processo conhecido como percolação.
+
+**Disponibilidade de Umidade do Solo**
+
+As forças atrativas que atuam entre a água e as partículas individuais do solo desempenham um papel fundamental na forma como a umidade do solo é retida, perdida e utilizada pelas plantas. A capacidade de campo é a umidade restante no solo após a força da gravidade drenar a água gravitacional dos macroporos, enquanto o ponto de murcha permanente é o teor de umidade no qual a planta murcha e não se recupera.
+
+**FOGO E SUA ECOLOGIA**
+
+O fogo é uma das principais formas de alteração ou perturbação ambiental. Em ecossistemas naturais, ele remove espécies vegetais dominantes, desloca animais, devolve nutrientes ao solo e queima a serapilheira acumulada na superfície da floresta. Quase toda a vegetação da Terra foi influenciada de alguma forma pelo fogo.
+
+Do ponto de vista ecológico, existem principalmente três tipos de incêndios: incêndio superficial, incêndio de copa e incêndio no solo ou subsolo. Cada um exerce papéis distintos na dinâmica ambiental e na regeneração dos ecossistemas.
+
+**DEPARTAMENTO DE ECOLOGIA COMUNITÁRIA, CENTRO DE PESQUISA AMBIENTAL (ALEMANHA)<br />**www.ufz.de/index.php?en=798<br /><br />**INTERAÇÕES ENTRE ESPÉCIES EM COMUNIDADES DE CULTIVO<br />**SISTEMA ALIMENTAR E AGRÍCOLA NUTRITIVO, RESILIENTE, PRODUTIVO E ADAPTÁVEL.
+
+**DIVERSIDADE DE AGROECOSSISTEMAS**
+
+Tanto os agroecossistemas quanto os ecossistemas naturais são compostos por organismos e pelo ambiente físico não vivo em que esses organismos vivem. Os três capítulos anteriores trataram principalmente dos componentes organísmicos, ou bióticos, desses sistemas, no nível de populações e comunidades. Neste capítulo, começamos a adicionar os componentes abióticos dos ecossistemas ao quadro, alcançando assim o nível de estudo do ecossistema como um todo. Nesse nível, observamos os sistemas como um todo, obtendo uma visão mais completa de sua estrutura e funcionamento.
+
+**GERENCIANDO TODO O SISTEMA**
+
+A agroecologia enfatiza a necessidade de estudar tanto as partes quanto o todo. Embora o conceito de que o todo é maior que a soma das partes seja amplamente reconhecido, ele foi ignorado por muito tempo pela agronomia e tecnologia modernas, que priorizam o estudo detalhado da planta ou do animal individualmente como forma de lidar com as complexidades da produção e viabilidade agrícola. Aprendemos muito com a especialização e o foco restrito na produtividade dos componentes agrícolas dos sistemas de produção, mas é fundamental desenvolver uma compreensão da propriedade rural como um todo e de todo o sistema alimentar para entender plenamente a sustentabilidade agrícola e implementar práticas de manejo adequadas.
+
+A complexidade que caracteriza sistemas inteiros é a base para interações ecológicas que constituem um fundamento crucial para o projeto de agroecossistemas sustentáveis. Essas interações são, em grande parte, função da diversidade de um sistema.
+
+A diversidade é, ao mesmo tempo, um produto, uma medida e um fundamento da complexidade de um sistema e, portanto, de sua capacidade de sustentar um funcionamento sustentável. De uma perspectiva, a diversidade do ecossistema surge como resultado das maneiras pelas quais os diferentes componentes vivos e não vivos do sistema estão organizados e interagem. De outra perspectiva, a diversidade, manifestada pelo complexo de ciclos biogeoquímicos e pela variedade de organismos vivos, é o que torna possível a organização e as interações do sistema.
+
+Quando a gestão de agroecossistemas considera as oportunidades apresentadas pelas qualidades emergentes de sistemas inteiros, o paradigma de controle de condições e populações é substituído pelo paradigma de gestão. Sob o paradigma de gestão, buscamos sempre considerar os efeitos de qualquer ação ou prática sobre o sistema como um todo, e planejamos práticas que se baseiam no funcionamento do sistema como um todo e em suas qualidades emergentes.
+
+**ABORDAGENS DE SISTEMA INTEGRAL E OPORTUNIDADES**
+
+No capítulo anterior, vimos com as interações entre as populações de uma comunidade agrícola levam a qualidades emergentes que existem apenas no nível da comunidade. No nível do ecossistema, existe outro conjunto de qualidades emergentes que tornam o agroecossistema muito maior do que a soma de suas partes. O manejo que opera nesse nível pode aproveitar uma enorme variedade de interações benéficas, ciclos de nutrientes e processos de controle de pragas, ervas daninhas e patógenos nas últimas décadas.
+
+Na abordagem industrial, a tentativa de controlar e homogeneizar rigidamente todas as condições separadamente resulta, com muita frequência, na eliminação de relações e interferências benéficas, restando apenas interferências e interações negativas. As práticas de gestão industrial ou convencional atuam principalmente no nível individual ou populacional do sistema, em vez dos níveis comunitário e ecossistêmico, onde interações mais complexas podem ocorrer.
+
+Os problemas inerentes à abordagem industrial de controle populacional são facilmente observados na forma como ela tem tratado o controle de pragas, ervas daninhas e patógenos nas últimas décadas. Baseado no princípio de que o único inseto ou erva daninha benéfico é aquele morto, uma incrível variedade de tecnologias foi desenvolvida para remover ou eliminar cada praga-alvo do sistema de cultivo. Essas tecnologias simplificaram os agroecossistemas de diversas maneiras, por exemplo, eliminando os predadores das pragas-alvo. Em agroecossistemas simplificados, no entanto, as infestações de pragas tornam-se mais comuns e perniciosas, e o uso de insumos externos precisa aumentar para lidar com os problemas resultantes.
+
+**CONSTRUINDO SOBRE A DIVERSIDADE**
+
+Neste capítulo, exploramos inicialmente o que significa gerir agroecossistemas como sistemas completos, aproveitando as suas qualidades emergentes. Em seguida, examinamos a biodiversidade em ecossistemas naturais, o valor da diversidade num contexto de agroecossistema, como a diversidade é avaliada e o possível papel da teoria da biogeografia insular na gestão da diversidade. Finalmente, exploramos as ligações entre a diversidade ecológica e a sustentabilidade em termos do desenvolvimento de um quadro para o planeamento e gestão de agroecossistemas.
+
+A principal prioridade na gestão de sistemas integrados é a criação de um agroecossistema mais complexo e diversificado, porque somente com alta diversidade existe potencial para interações benéficas. O agricultor começa aumentando o número de espécies vegetais no sistema, por meio de uma variedade de práticas e princípios de plantio que aumentam a diversidade. Em seguida, o gado pode ser integrado às culturas. Essa diversificação leva a mudanças positivas nas condições abióticas e atrai populações de artrópodes benéficos e outros animais. Desenvolvem-se qualidades emergentes que permitem que o sistema com o manejo adequado de seus componentes específicos funcione de maneiras que mantenham a fertilidade e a produtividade e regulem as populações de pragas.
+
+**DIVERSIDADE ECOLÓGICA**
+
+Em ecologia, o conceito de diversidade tende a ser aplicado principalmente no nível da comunidade: a diversidade é entendida como o número de espécies diferentes que compõem uma comunidade em um local específico. Os ecossistemas, no entanto, apresentam outros tipos de variedade e heterogeneidade além daquela abrangida pelo número de espécies. Eles possuem diversidade na distribuição espacial de seus componentes, por exemplo, como demonstrado pelos diferentes níveis de dossel em uma floresta. Apresentam diversidade em seus processos funcionais e diversidade nos genomas de sua biota. E, como se modificam de diversas maneiras ao longo do tempo, tanto ciclicamente quanto direcionalmente, possuem o que poderia ser chamado de diversidade temporal.
+
+A diversidade, portanto, possui uma variedade de dimensões diferentes. Quando essas dimensões são reconhecidas e definidas, o próprio conceito de diversidade se amplia e se torna mais complexo, passando a ser o que chamaremos de diversidade ecológica. Algumas das possíveis dimensões da diversidade ecológica estão definidas, mas estas sete são as dimensões que serão utilizadas neste texto. O termo biodiversidade é comumente usado para se referir a uma combinação de diversidade de espécies e diversidade genética. Essas diferentes dimensões da diversidade ecológica são ferramentas úteis para a compreensão completa da diversidade tanto em ecossistemas naturais quanto em agroecossistemas.
+
+**DIVERSIDADE NOS ECOSSISTEMAS NATURAIS**
+
+A diversidade parece ser uma característica inerente à maioria dos ecossistemas naturais. Embora o grau de diversidade entre diferentes ecossistemas varie bastante, os ecossistemas em geral tendem a expressar a maior diversidade possível, dadas as limitações de seus ambientes abióticos.
+
+A seleção natural e a reprodução se combinam para produzir variabilidade, inovação e diferenciação entre a biota da Terra. Uma vez gerada, a diversidade tends a se auto-reforçar. Maior diversidade de espécies leva a maior diferenciação de habitats e maior produtividade, o que, por sua vez, permite uma diversidade de espécies ainda maior.
+
+A diversidade desempenha um papel importante na manutenção da estrutura e função dos ecossistemas. Desde que Tansley cunhou o termo ecossistema para se referir à combinação de comunidades de plantas e animais e seu ambiente físico, os ecologistas têm tentado demonstrar a relação entre a diversidade de um sistema e sua estabilidade. Os ecossistemas naturais geralmente se conformam ao princípio de que uma maior diversidade permite maior resistência a perturbações e distúrbios. Ecossistemas com alta diversidade tendem a ser mais resilientes para serem capazes de se recuperar de perturbações e restaurar o equilíbrio em seus processos de ciclagem de materiais e fluxo de energia. Em ecossistemas com baixa diversidade, perturbações podem causar mudanças permanentes no funcionamento com mais facilidade, resultando na perda de recursos do ecossistema e em alterações na sua composição de espécies.
+
+**DIVERSIDADE, ESTABILIDADE E RESILIÊNCIA**
+
+Na ecologia, tem havido muita discussão sobre a relação entre diversidade e estabilidade. Parece haver alguma correlação entre as duas, ou seja, quanto maior a diversidade de um ecossistema, mais resistente ele é à mudança e mais capaz é de se recuperar de perturbações. Mas há divergências quanto ao grau e à intensidade da correlação.
+
+Grande parte do problema surge da natureza restrita da definição aceita de estabilidade. Estabilidade geralmente se refere à relativa ausência de flutuações nas populações de organismos no sistema, implicando uma condição de estado estacionário ou a falta de mudanças. Essa noção de estabilidade é inadequada, especialmente em relação à descrição dos resultados ecológicos da diversidade. Por essa razão, o termo estabilidade foi amplamente substituído pelos termos resiliência e resistência. Recapitulando, resistência é a capacidade de resistir à mudança em geral, e resiliência é a capacidade de se recuperar de uma perturbação e retornar a um estado semelhante ao que existia antes da perturbação. Em geral, a diversidade de um sistema está altamente correlacionada tanto com a resistência quanto com a resiliência.
+
+Para alguns ecologistas, resistência e resiliência não abrangem todas as qualidades relacionadas que resultam da diversidade. Eles gostariam de um conceito que se concentrasse no que poderia ser chamado de robustez de um ecossistema, sua capacidade de sustentar níveis complexos de interação e processos autorregulatórios de fluxo de energia e ciclagem de materiais. Tal conceito seria particularmente útil para a compreensão do valor e do uso da diversidade em agroecossistemas, para os quais agricultores e gestores de agroecossistemas buscam algo que vá além da resistência e da resiliência.
+
+**VALOR DA DIVERSIDADE DOS AGROECOSSISTEMAS**
+
+Uma estratégia fundamental na agricultura sustentável é reincorporar a diversidade à paisagem agrícola e gerenciá-la de forma mais eficaz. O aumento da diversidade contraria o foco de grande parte da agricultura industrial contemporânea, que atinge sua forma extrema em monoculturas de larga escala. Ao que tudo indica, a diversidade é vista mais como um problema nesses sistemas, especialmente quando consideramos todos os insumos e práticas que foram desenvolvidos para limitar a diversidade e manter a uniformidade.
+
+A pesquisa sobre sistemas de cultivo múltiplo destaca a grande importância da diversidade em um ambiente agrícola, com contribuições fundamentais de Francis, Vandermeer, Altieri, Innis, Ong, Mohler, Stoner, Volder e Franco.
+
+A diversidade é valiosa nos agroecossistemas por uma série de razões:
+
+• Com maior diversidade, há maior diferenciação de microhabitats, permitindo que as espécies que compõem o sistema se tornem especialistas em habitat. Cada cultura pode ser cultivada em um ambiente ideal para suas necessidades específicas.
+
+• Com o aumento da diversidade, crescem também as oportunidades de coexistência e interferência benéfica entre espécies, o que pode melhorar a sustentabilidade do agroecossistema. As relações entre leguminosas fixadoras de nitrogênio e as culturas agrícolas associadas são um excelente exemplo disso.
+
+• Em um agroecossistema diversificado, os ambientes perturbados associados a situações agrícolas podem ser melhor aproveitados. Os habitats abertos podem ser colonizados por espécies úteis que já ocorrem no sistema, em vez de por espécies invasoras pioneiras, nocivas e invasoras vindas de fora.
+
+• A alta diversidade possibilita vários tipos de dinâmicas populacionais benéficas entre herbívoros e seus predadores. Por exemplo, um sistema diverso pode favorecer a presença de diversas populações de herbívoros, dos quais apenas alguns são pragas, bem como a presença de uma espécie predadora que se alimenta de todos os herbívoros. O predador aumenta a diversidade entre as espécies de herbívoros, mantendo sob controle as populações de cada espécie.
+
+**MÉTODOS PARA AUMENTAR A DIVERSIDADE EM SISTEMAS AGRÍCOLAS**
+
+Uma gama de opções e alternativas está disponível para adicionar os benefícios da diversidade discutidos anteriormente à paisagem agrícola. Essas alternativas podem envolver a adição de novas espécies em sistemas de cultivo existentes, reorganizar ou reestruturar as espécies já presentes, adicionar práticas ou insumos que aumentem a diversidade e eliminar insumos ou práticas que reduzam ou restrinjam a diversidade.
+
+O consórcio de culturas é uma forma primária e direta de aumentar a diversidade alfa de um agroecossistema, cultivando duas ou mais culturas em conjunto, em misturas que permitam a interação entre os indivíduos das diferentes culturas. O consórcio é uma forma comum de cultivo múltiplo, definido como a intensificação e diversificação do cultivo nas dimensões de tempo e espaço, conforme destacado por Francis.
+
+Outra forma de cultivo múltiplo é o plantio de diferentes culturas em faixas adjacentes, criando uma policultura de monoculturas. Essa prática aumenta a diversidade beta em vez da diversidade alfa, proporcionando muitos benefícios com menos desafios de manejo e colheita.
+
+Árvores ou arbustos plantados ao redor do perímetro dos campos, ou blocos e faixas de vegetação seminatural, conhecidos como sebes vivas e vegetação de proteção, podem ter muitas funções úteis, como proteção contra o vento, exclusão de animais e fornecimento de habitat para organismos benéficos.
+
+O cultivo de cobertura envolve espécies não cultivadas plantadas em um campo para fornecer cobertura ao solo, geralmente entre os ciclos de cultivo, aumentando a matéria orgânica, estimulando a atividade biológica e retendo nutrientes.
+
+**AVALIAÇÃO DO AGROECOSSISTEMA DIVERSIDADE E SEUS BENEFÍCIOS**
+
+Para gerir a diversidade da forma mais eficaz, precisamos de meios para a medir e avaliar o impacto dos aumentos na diversidade no desempenho e funcionamento de um agroecossistema. Precisamos ser capazes de reconhecer a presença da diversidade e os padrões de sua distribuição na paisagem, e saber se, e em que medida, a presença dessa diversidade beneficia o desempenho do agroecossistema, especialmente do ponto de vista do agricultor.
+
+Os ecologistas reconhecem que a diversidade de um ecossistema ou comunidade é determinada por mais do que apenas o número de espécies. Existem dois componentes da diversidade de espécies: o número de espécies, denominado riqueza de espécies, e a equitabilidade da distribuição dos indivíduos no sistema entre as diferentes espécies, denominada equitabilidade de espécies. Ambos os componentes devem ser considerados em qualquer medição abrangente da diversidade.
+
+**COLONIZAÇÃO E DIVERSIDADE**
+
+Para abordar a questão de como um agroecossistema é colonizado por organismos, é útil pensar em uma lavoura como uma ilha cercada por um oceano que os organismos precisam atravessar para se tornarem parte da diversidade de espécies do agroecossistema. Em um sentido ecológico, qualquer ecossistema isolado, cercado por ecossistemas distintos, é uma ilha, pois os ecossistemas circundantes impõem limites à capacidade dos organismos de alcançá-la e colonizá-la.
+
+O conjunto de teorias ecológicas relativas a ilhas é conhecido como biogeografia insular, formulado por MacArthur e Wilson. Parte-se da ideia de que os ecossistemas insulares são geralmente muito isolados de outros ecossistemas semelhantes. A sequência de eventos que permite a um organismo chegar a uma ilha desencadeia um conjunto de respostas que orientam o desenvolvimento do ecossistema insular.
+
+**PERTURBAÇÃO, SUCESSÃO E GESTÃO DE AGROECOSSISTEMAS**
+
+Os conceitos ecológicos de perturbação e recuperação por meio da sucessão ecológica têm importante aplicação na agroecologia. Os agroecossistemas estão constantemente sujeitos a perturbações na forma de cultivo, preparo do solo, semeadura, plantio, irrigação, aplicação de fertilizantes, controle de pragas, poda, colheita e queimadas. Quando a perturbação é frequente, generalizada e intensa, os agroecossistemas estão limitados aos estágios iniciais da sucessão ecológica. Essa condição possibilita alta produtividade, mas requer grandes quantidades de fertilizantes e pesticidas, e tende a degradar os recursos do solo ao longo do tempo.
+
+Uma produção alimentar mais sustentável pode ser alcançada ao reduzirmos a dependência de perturbações contínuas e excessivas e ao permitirmos que os processos sucessionais progridam e gerem maior complexidade ecológica. Com base na nossa compreensão das perturbações e da sucessão ecológica em ecossistemas naturais, podemos melhorar a capacidade dos agroecossistemas de manterem tanto a fertilidade quanto a produtividade através da gestão adequada das perturbações e da recuperação.
+
+**AGRICULTURA, SOCIEDADE E AGROECOLOGIA E COMUNIDADE E CULTURA NA REFORMULAÇÃO DO SISTEMA ALIMENTAR**
+
+ANDERSON ROSA<br />TRANSCRIÇÃO E ORGANIZAÇÃO TEXTUAL
+
+*Fonte original do documento: Acervo bibliográfico de Agroecologia e Sustentabilidade de Sistemas Alimentares<br />São Paulo*
+
+**AGRICULTURA, SOCIEDADE E AGROECOLOGIA**
+
+**Danos ao Meio Ambiente e à Sociedade:** No Capítulo anterior, descrevemos os muitos e graves danos ao meio ambiente, à sociedade e aos fundamentos da produtividade agrícola, que fazem parte do preço que pagamos pela prodigiosa produtividade do sistema de agricultura industrial que domina grande parte do mundo hoje. Entre esses muitos danos, a agricultura industrial esgota aquíferos ancestrais, degrada solos que se formaram ao longo de milênios, reduz a biodiversidade, adiciona enormes volumes de gases de efeito estufa à atmosfera, danifica os sistemas naturais que nos fornecem serviços ecossistêmicos essenciais e concentra o controle da produção de alimentos nas mãos de um número cada vez menor de pessoas.
+
+**Fundamentos Agroecológicos e Sustentabilidade:** Nos capítulos que se seguem, este livro construiu, camada por camada, os princípios, estratégias e métodos que constituem uma abordagem para a produção de alimentos muito diferente da agricultura industrial. Todos esses capítulos partiram do pressuposto de que a agricultura industrial é insustentável a longo prazo, tem custos inaceitáveis no presente e, de fato, precisa ser substituída por sistemas baseados em fundamentos agroecológicos. As evidências acumuladas desde o surgimento do pensamento, da prática e da pesquisa agroecológica na década de 1980 indicam que essa abordagem alternativa para a agricultura é, de fato, muito mais sustentável do que a abordagem industrial, muito menos prejudicial ao sistema de suporte à vida do planeta e mais consistente com os esforços para aliviar o sofrimento das pessoas mais pobres do mundo, conforme apontam IAASTD e IFAD. As pesquisas também corroboram a afirmação de que a abordagem agroecológica para a agricultura é mais do que capaz de produzir alimentos suficientes para alimentar a população mundial, não apenas agora, mas também no futuro previsível, conforme destacam Badgley e Perfecto bem como Badgley e colaboradores.
+
+**O Estado Atual da Transição:** Como o objetivo final de apresentar os fundamentos da agroecologia neste livro é facilitar a transição para um sistema alimentar mundial mais sustentável, devemos agora examinar o estado atual dessa transição. Considerando tudo o que sabemos sobre os dois sistemas e supondo que as pessoas queiram escolher a opção com o futuro mais promissor, podemos esperar que os métodos mais sustentáveis da abordagem agroecológica estejam ganhando terreno e substituindo gradualmente os da agricultura industrial. Em vez de recuarem, as monoculturas estão substituindo as diversas policulturas em quase todos os lugares onde isso ainda não aconteceu. Os agricultores de todo o mundo estão a adotar práticas que os tornam mais dependentes de insumos externos, e não menos. Existem contraexemplos encorajadores em cada uma destas áreas, mas, nestas e em muitas outras formas, o sistema alimentar mundial como um todo está a tornar-se cada vez mais dependente e dominado pelos métodos industriais intensivos em tecnologia e capital.
+
+**O Dilema da Produtividade Agrícola:** Por que a sociedade humana como um todo parece tão determinada a seguir o caminho da agricultura industrial, mesmo sabendo que isso tem consequências comprovadamente desastrosas a longo prazo? Diante dessa pergunta, muitos especialistas em políticas agrícolas responderiam que os transgênicos, a monocultura, a produção em larga escala e outras facetas da agricultura industrial estão se tornando cada vez mais dominantes porque aumentam a produtividade agrícola, e não utilizá-los causaria consequências terríveis, como escassez de alimentos e fome. Simplificando, diriam, as práticas da agricultura industrial permitem que os agricultores produzam mais alimentos, e cultivar alimentos é, afinal, o objetivo principal da agricultura.
+
+**Limitações do Modelo Industrial:** Essa resposta satisfaz muitos, mas não deveria satisfazer aqueles que compreenderam a gravidade dos problemas associados à agricultura industrial. Primeiro, ela não aborda as muitas consequências negativas graves e as ameaças à produtividade futura sabidamente associadas às práticas da agricultura industrial. Segundo, ela não reconhece a existência de outros meios mais sustentáveis de aumentar a produtividade e garantir a segurança alimentar. Mas reconhecer as falhas básicas do argumento de investir pesado na agricultura industrial para alimentar o mundo não nos aproxima da solução do dilema original. Não só o mundo como um todo está seguindo um rumo na produção de alimentos que é, em última análise, autodestrutivo, como um grande número de pessoas acredita que esse é precisamente o rumo que o mundo deveria estar tomando.
+
+**O Contexto Social e Econômico:** Claramente, algo está acontecendo que merece uma análise mais aprofundada, e isso está relacionado a crenças, compromissos políticos, interesses econômicos e às maneiras como as pessoas interpretam ideias e fatos. Para entender esses fatores, precisamos dar um passo atrás, olhar além da própria agricultura e examinar o contexto mais amplo em que ela opera; ou seja, precisamos observar os mercados, as estruturas econômicas, as políticas governamentais, a política, as lutas que ocorrem entre grupos com diferentes níveis de poder e as estruturas conceituais que as pessoas usam para entender essas coisas, tudo isso incluído sob a rubrica de sociedade. Ao incorporar essas ferramentas à abordagem analítica e à agenda de pesquisa da agroecologia, podemos obter alguma compreensão sobre por que o sistema alimentar continua em sua trajetória destrutiva.
+
+**AGRICULTURA CONCEBIDA DE FORMA RESTRITA**
+
+**Modelos Mentais e Simplificações:** Os seres humanos compreendem o mundo complexo em que vivem por meio de coisas e relações mais simples e concretas, que são mais fáceis de entender. Tomamos elementos como interações face a face, famílias e histórias de luta individual e os utilizamos como metáforas, analogias e modelos que nos permitem dar sentido a abstrações difíceis de compreender, como a ecologia global e a economia nacional. O tangível e o imediato oferecem estruturas sobre as quais podemos apoiar ideias mais abstratas. Por exemplo, para entender o mundo enormemente complexo da atividade econômica, usamos como modelo a interação individual entre um comerciante e seus clientes. Por meio desse modelo simples, podemos entender mais facilmente fenômenos complexos como oferta e demanda, mesmo em sua aplicação às economias nacionais e ao comércio internacional.
+
+**Limitações e Vieses dos Modelos Simples:** Embora úteis e provavelmente até essenciais para a compreensão do mundo social, modelos como este apresentam limitações importantes. Idealizados e baseados no que ocorre nos níveis mais simples da organização social, suas características nunca são totalmente paralelas às dos processos sociais que operam no nível da sociedade, os quais possuem propriedades que só podem existir nesses níveis mais complexos. Além disso, esses modelos frequentemente contêm vieses específicos que acabam moldando nossas concepções quando são estendidos por analogia a níveis sociais mais elevados. É o caso dos modelos que os humanos usam para entender a agricultura em sua relação com a sociedade. O modelo básico aqui é semelhante ao da relação entre comerciante e cliente: há um agricultor que cultiva alimentos e há aqueles que vêm diretamente ao agricultor para comprar seus produtos, onde oferta e demanda interagem e se afetam mutuamente.
+
+**Simplificações Excessivas do Sistema Alimentar:** É fácil perceber como esse modelo simplifica demais o sistema alimentar. A agricultura é isolada de todos os diversos fatores físicos de produção, tais como biodiversidade, processos naturais do sistema e seus serviços ecossistêmicos, disponibilidade de terra e água para irrigação, solo e sua qualidade, insumos como fósforo e nitrogênio, fontes de energia e clima. As pessoas que trabalham no setor agrícola são todas colocadas em pé de igualdade como agricultores, ignorando o fato de que muitos são pequenos agricultores com dificuldades financeiras ou arrendatários sem terra, enquanto outras são grandes corporações transnacionais com bilhões em receita anual. Os consumidores de alimentos são tratados como um bloco monolítico, apagando as desigualdades que deixam milhões sem segurança alimentar.
+
+**ECONOMIA POLÍTICA E ECOLOGIA DOS SISTEMAS ALIMENTARES**
+
+**Rumo a um Modelo Mais Completo:** Um modelo mais completo do lugar da agricultura na sociedade, que não leve a vieses sistemáticos e pontos cegos, possui todas as características do modelo do sistema alimentar, incluindo estruturas sociais como mercados e políticas governamentais. Ele reconhece que os mecanismos de mercado e os preços desempenham papéis importantes na forma como os alimentos são efetivamente distribuídos, leva em conta a diversidade e a complexidade dos processos de produção e compreende como a agricultura depende dos sistemas naturais e do meio ambiente, com os quais interage.
+
+**Desigualdade e Poder nas Ciências Sociais:** Para levar em conta plenamente o papel que a agricultura desempenha na vida de seres humanos reais em todo o mundo, um modelo melhor também deve considerar e ajudar a explicar as causas das desigualdades que existem em todos os aspectos do sistema alimentar global. Ele deve analisar e compreender as diferenças de riqueza entre países e regiões, as diferenças no acesso a alimentos entre as classes sociais e as diferenças na capacidade de possuir terras e influenciar mudanças. Todos esses aspectos da desigualdade estão intrinsecamente ligados ao conceito de poder, um dos conceitos-chave das ciências sociais. O poder é uma função da posição de um indivíduo em relação às estruturas sociais e culturais, dependendo criticamente de riqueza, status e acesso ao conhecimento, sendo exercido por grupos, corporações, governos e nações tanto quanto por indivíduos, conforme destacam Domhoff, bem como Mills e Wolfe.
+
+**CONTROLE CORPORATIVO DO SISTEMA ALIMENTAR**
+
+**O Domínio do Agronegócio Global:** Embora tendamos a pensar que nossos alimentos são produzidos por agricultores, palavra que evoca imagens de pequenas fazendas familiares, a maior parte dos alimentos consumidos no mundo desenvolvido é inseparável de um sistema global dominado por um número relativamente pequeno de grandes corporações, comumente chamadas de agronegócio. Seu controle se estende a todos os níveis de produção e distribuição de alimentos: fornecimento dos fatores de produção, sementes, agroquímicos, fertilizantes, máquinas agrícolas, propriedade da terra, produção de ração e pecuária, processamento, transporte, distribuição por atacado e vendas no varejo. Nesse vasto sistema, os alimentos são tratados como uma mercadoria valorizada por sua capacidade de gerar riqueza para aqueles que possuem corporações agroindustriais.
+
+**O Regime Alimentar Corporativo e suas Alianças:** A enorme riqueza das corporações agroalimentares se traduz em um poder considerável para moldar o sistema alimentar de acordo com seus interesses próprios. Elas podem influenciar a legislação governamental, fixar preços artificialmente altos, moldar o comportamento do consumidor e conter ameaças ao seu domínio. Embora o papel das corporações no sistema alimentar global seja tão dominante que alguns pesquisadores descreveram o sistema atual como um regime alimentar corporativo, conforme teorizado por McMichael e Hauter, as corporações não são as únicas a exercer controle. Elas recrutam como aliados ministérios governamentais, instituições agrícolas globais, universidades públicas, centros de pesquisa e grandes fundações filantrópicas, que atuam em conjunto para impor regras não escritas e promover uma ideologia apolítica que apoia o status quo.
+
+**RELAÇÕES DE PODER E A ILUSÃO DA APOLITIKIDADE**
+
+**A Visão Apolítica da Alimentação:** Existe uma relutância generalizada entre muitos acadêmicos, planejadores, formuladores de políticas e pessoas em geral em enxergar a alimentação e a produção de alimentos em termos de poder, concentração de riqueza e desigualdade. Essa recusa impede a discussão de muitas questões importantes e mantém certas questões completamente fora de nossa consciência. Quando os cidadãos compram produtos como um hambúrguer, agem como consumidores em um ato essencialmente apolítico, focando apenas no preço, sabor e conveniência, sem questionar a procedência da carne, a propriedade da terra ou a distribuição do dinheiro pago ao longo da cadeia produtiva.
+
+**O Papel da Ideologia e da Conscientização:** Para entender por que o sistema alimentar e sua base na agricultura industrial são tão resistentes à crítica, precisamos introduzir o termo ideologia. Um sistema ideológico é um conjunto de crenças e pressupostos tácitos sobre o funcionamento do mundo que surge para estabilizar uma sociedade baseada em uma distribuição muito desigual de poder e riqueza. Os poderosos conseguem manter suas posições de poder inteiramente por meio de ideias, crenças e mitos legitimadores que dão à ordem imposta um caráter natural e inevitável, fazendo com que as pessoas tenham dificuldade em imaginar alternativas.
+
+**RELAÇÃO ENTRE DESIGUALDADE E INSUSTENTABILIDADE**
+
+**A Conexão entre Desigualdade e Danos Ambientais:** A desigualdade na agricultura está intrinsecamente ligada à sua insustentabilidade. Em muitos aspectos, a desigualdade é uma causa direta de aspectos destrutivos do sistema alimentar. Desapossados de suas terras, os pobres rurais são mais propensos a adotar práticas ambientalmente destrutivas em terras marginais para sobreviver, conforme apontam González de Molina. Por outro lado, a prosperidade dos consumidores urbanos impulsiona o consumo excessivo e o desperdício. As práticas que mantêm a desigualdade e as estruturas econômicas sob as quais operam são justamente as que mais ampliam a pegada ecológica negativa da agricultura, priorizando a acumulação de riqueza em detrimento da satisfação das necessidades alimentares e da saúde do planeta.
+
+**COMUNIDADE E CULTURA NA REFORMULAÇÃO DO SISTEMA ALIMENTAR**
+
+**A Necessidade de Trazer a Cultura de Volta:** Em seu livro Agricultura Radical, publicado em 1976, Rich Merrill escreveu sobre a necessidade de trazer a cultura de volta para a agricultura, alertando sobre os efeitos negativos da transformação da agricultura em agronegócio. Merrill explorava o duplo significado de cultura, substituindo o significado relacionado ao cultivo da terra pelo significado de cultura humana, compreendida como um sistema integrado de conhecimento, crenças e comportamentos. Merrill alertava que a agricultura estava sendo esvaziada de sua humanidade, pois os valores e relações sociais que antes sustentavam uma gestão responsável da terra estavam desaparecendo e sendo substituídos por interações estritamente monetárias.
+
+**A Distância entre Produção e Consumo:** Ao longo dos milênios, a relação humana com os alimentos passou de um modelo direto de caça e coleta para sistemas agrícolas locais e diversificados. No entanto, com a expansão do comércio global e a modernização agrícola, a distância geográfica e social entre quem produz e quem consome aumentou drasticamente. O sistema alimentar global transformou os alimentos em meras commodities, isolando os consumidores em centros urbanos e deixando os agricultores à mercê de corporações transnacionais.
+
+**TABELAS DE CONCENTRAÇÃO NO SETOR AGRÍCOLA**
+
+**Panorama da Concentração Corporativa:**A tabela abaixo ilustra o nível alarmante de concentração de mercado e controle corporativo em diversos setores da cadeia agrícola global, refletindo dados compilados por pesquisadores do setor.
+
+<table><tr><td>**Produto**
+
+</td><td>**Empresas Principais**
+
+</td><td>**O que essas empresas controlam**
+
+</td></tr><tr><td>Sementes de vegetais
+
+</td><td>5 empresas
+
+</td><td>75% do mercado global de sementes comerciais
+
+</td></tr><tr><td>Grãos e Cereais
+
+</td><td>2 empresas (ADM e Cargill)
+
+</td><td>75% a 80% do comércio mundial de grãos
+
+</td></tr><tr><td>Moinhos e Farinha
+
+</td><td>3 maiores moinhos / 4 maiores empresas
+
+</td><td>55% do mercado americano / 50% do comércio mundial
+
+</td></tr><tr><td>Café e Chá
+
+</td><td>3 empresas / Multinacionais
+
+</td><td>80% da distribuição global e 90% do comércio
+
+</td></tr><tr><td>Cacau
+
+</td><td>2 empresas
+
+</td><td>75% do mercado americano
+
+</td></tr><tr><td>Cerveja e Vinho
+
+</td><td>Poucas empresas dominantes
+
+</td><td>64% a 89% do mercado americano
+
+</td></tr><tr><td>Alimentação Animal
+
+</td><td>4 principais empresas
+
+</td><td>43% do processamento global e maioria da produção
+
+</td></tr><tr><td>Varejo de Supermercados
+
+</td><td>As 4 maiores redes
+
+</td><td>36% das vendas totais nos Estados Unidos
+
+</td></tr></table>**ESTRATÉGIAS PARA COMER DE FORMA SUSTENTÁVEL**
+
+**A Urgência de Hábitos Alimentares Sustentáveis:** Mudar a forma como nos alimentamos é fundamental para transformar o sistema alimentar em um sistema mais sustentável e equitativo. A Terra não consegue sustentar nove bilhões de pessoas tentando se alimentar com dietas hiperindustrializadas e baseadas em produtos de origem animal de alto impacto. Portanto, adotar hábitos alimentares sustentáveis exerce um efeito de retroalimentação positivo no sistema, pressionando-o a mudar e apoiando o crescimento de alternativas agroecológicas.
+
+**Diretrizes Práticas para a Sustentabilidade Alimentar:** Para reduzir a pegada alimentar ecológica per capita, as principais diretrizes envolvem consumir alimentos mais próximos da base da cadeia alimentar, dando preferência a produtos de origem vegetal em vez de produtos de origem animal, aumentando o consumo de frutas, verduras, sementes, nozes e grãos integrais, o que promove o uso mais eficiente da terra agrícola e garante a saúde integral.
