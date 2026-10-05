@@ -1,0 +1,447 @@
+---
+titulo: "2.1 - Politica e Emancipatoria em Educacao Ambiental_LOUREIRO"
+tamanho_bytes: 88656
+data_conversao: "2026-10-05T23:27:31.066Z"
+ferramenta: "Conversor Acadêmico Real"
+---
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005	1471
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+COMPLEXIDADE E DIALÉTICA: CONTRIBUIÇÕES À PRÁXIS POLÍTICA E EMANCIPATÓRIA EM EDUCAÇÃO
+
+AMBIENTAL
+
+CARLOS FREDERICO BERNARDO LOUREIRO*
+
+*RESUMO*: No presente artigo analisa-se as principais orientações te-órico-metodológicas que constituem a Educação Ambiental, à luz de um referencial inserido na tradição crítica e dialética histórica. Problematizam-se as formulações funcionalistas e organicistas produ-zidas no campo da teoria dos sistemas e da visão holística que dilu-em os aspectos políticos, sociais e culturais inerentes à complexidade ambiental, estabelecem uma unidade abstrata entre sociedade e na-tureza e, em algumas de suas propostas, hipostasiam o todo em rela-ção às partes. Ao final, são resgatadas categorias definidoras da ver-tente emancipatória ou transformadora da Educação Ambiental, re-levantes para um fazer educativo ambientalista que enfatize a parti-cipação cidadã, a ressignificação do ambiente e a transformação societária, enquanto princípios estruturantes e indissociáveis do pro-cesso de requalificação do humano na natureza.
+
+*Palavras-Chave*: Educação Ambiental. Práxis. Emancipação. Transforma-ção social. Complexidade.
+
+**Complexity and dialectic: Contributions to the political and emancipatory praxis in Environmental Education**
+
+*ABSTRACT*: This paper analyses the main theoretical and method-ological approaches to environmental education from a critical per-spective within the historical dialectics. It problematizes the func-tional and organic formulations, produced in the field of theory of systems, and the holistic vision that dilute the political, social and cultural aspects inherent to the environmental complexity, establish an abstract unity among nature and society and, in some of its
+
+*	Doutor em Serviço Social pela Universidade Federal do Rio de Janeiro (UFRJ) e professor adjun-to da Faculdade de Educação da mesma Universidade. *E-mail*: <a href="mailto:floureiro@openlink.com.br">floureiro@openlink.com.br</a>.
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1473
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+propositions, segregate the whole in relation to the parts. In the end, the relevant categories that define the emancipatory or transforma-tive views of environmental education are brought forward in an approach that emphasizes citizenship participation, the re-significa-tion of the environment, and the social transformation as structur-ing principles bound to the process of re-qualification of the human in the nature.
+
+*Key words*: Environmental Education. Praxis. Emancipation. Social transformation. Complexity.
+
+# Introdução
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAACOAQMAAADO5OK/AAAABlBMVEX///8jHyCZ/QWRAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHmSURBVEiJjdZBjuQgDAVQEC2x5AgchaORuVnmJvQNmB0LFBpDKrG/NZrJopR6SoJ/MFQZA8eJYJX4AyUqGSgZJIwxFAixAyUoyShuwYUDZS6J7hDXjFmc5WJHo2cxceOcyUfnDzYgsS9mkioxl1xWBUzowTMIlwPErogjt7ccKs1eA8R1Jr6vDyWNSaDT8AclfjOJdJq+R32FTtNvlPwLZTgm9DKslEYhUFxH8U1IJ/GjCAkVJRYh8/0kLSdKPrjEi6YjcOk0HWHN2j7ClEuIbzOEEFvo5XPZl4GEijJfYwQpUw4u6UTJWg6UYUCoy5KUC2XGAvFLRIimpKJEJalQz0MskKyEShGLm2JJoRBSnJaO4hvKWhhya1ktzhYuzQ1I0nKi7F2My/i32P8Qp8RveRf3vakKqebeAUUsIUnLuQZkMlsOZGgxIGu2DF/uTktHWbMlZIWYcWFDklJQVggh+ZYiQxi+JeyOZGKV7BBcfP+LxFdCQ9khuKR9lt5N4pHnmh2CX3Mv4Vfukmcvfu5yj3x63l8f+fRUuFvr7bLYlNR7gEfSLfX5acxPqcbtiuSet+4/QPwAMOFCiUpyF1+/5lBNCP1IVCGUtyiRBeI/kyWXkq6kKpFD0VgHCqZKkEH25z4s3vQDK63ouQ9C5mgAAAAASUVORK5CYII=" />Educação Ambiental integra propostas educativas oriundas de concepções teóricas e matrizes ideológicas distintas, sendo reconhe-cida publicamente, no Brasil, como de inegável relevância para a
+
+construção de uma perspectiva ambientalista de mundo e de sociedade. Tal fato é relativamente simples de compreender quando a pensamos como uma práxis educativa que se constitui no próprio processo de atua-ção, nas diferentes esferas da vida, das forças sociais identificadas com a “questão ambiental”. Estas, em suas múltiplas tendências, nas últimas três décadas, procuram materializar ações distintas e por vezes antagônicas, almejando alcançar patamares societários construídos por meio de cami-nhos vistos como sustentáveis, requalificando a compreensão e o modo de nos relacionarmos na natureza.
+
+No Brasil, as discussões afetas à Educação Ambiental adquirem ca-ráter público abrangente em meados da década de 1980, com a realiza-ção dos primeiros encontros nacionais, a atuação crescente das ONGs ambientalistas e movimentos sociais que incorporaram a temática em suas lutas, e a ampliação da produção acadêmica específica (Loureiro et al, 2002). Sua importância para o debate educacional se explicita formal-mente na obrigatoriedade constitucional, em sua inclusão nos Parâmetros Curriculares Nacionais e na publicação da Lei Federal que define a Polí-tica Nacional de Educação Ambiental (Lei 9795/1999), instrumentos le-gais e documentos governamentais que asseguram à temática um caráter transversal, indispensável e indissociável da política educacional brasilei-ra – mesmo que possamos considerar que a Educação Ambiental não es-teja consolidada nacionalmente enquanto política pública (Loureiro, 2004).
+
+1474
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Desde a década de 1970, quando identificamos as primeiras expe-riências denominadas de Educação Ambiental, dois grandes blocos polí-tico-pedagógicos começaram a se definir e disputar hegemonia no cam-po das formulações teóricas, na Academia, nas articulações internas às redes de educadores ambientais e na definição da Política Nacional, com vertentes internas e interfaces complexas e diferenciadas. Cabe destacar que não estamos afirmando que somente existam esses dois blocos, pois poderíamos lembrar de experiências e pensadores que não se enquadram estritamente e que apresentam proximidades ou não com eles de acordo com suas orientações específicas. Mas buscamos explicitar os macroeixos norteadores que historicamente alcançaram maior destaque no cenário da Educação Ambiental, seja pela proximidade com as discussões políticas da área, pela tradição na educação ou pela afinidade com teorias que ob-tiveram maior acúmulo no debate ambientalista.
+
+Feito esse esclarecimento e utilizando-nos de sistematização feita por Lima (2002) e de elementos por nós anteriormente indicados (Lou-reiro, 2003b e 2004), podemos assim classificar os dois blocos em suas ênfases. Um denominado conservador ou comportamentalista, cujas ca-racterísticas centrais são:
+
+- compreensão naturalista e conservacionista da crise ambiental;
+- educação entendida em sua dimensão individual, baseada em vivências práticas;
+- despolitização do fazer educativo ambiental, apoiando-se em pe-dagogias comportamentalistas ou alternativas de cunho místico;
+- baixa problematização da realidade e pouca ênfase em proces-sos históricos;
+- foco na redução do consumo de bens naturais, descolando essa discussão do modo de produção que a define e situa;
+- diluição da dimensão social na natural, faltando entendimento dialético da relação sociedade-natureza (sociedade enquanto re-alização coletiva e objetivada da natureza humana, ou melhor, enquanto realização e exigência para a sobrevivência da espécie humana – Morin, 2002a);
+- responsabilização pela degradação posta em um homem genéri-co, fora da história, descontextualizado social e politicamente.
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1475
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+E outro chamado de transformador, crítico ou emancipatório, cujas características mais comuns são:
+
+- busca da realização da autonomia e liberdades humanas em so-ciedade, redefinindo o modo como nos relacionamos com a nossa espécie, com as demais espécies e com o planeta;
+- politização e publicização da problemática ambiental em sua complexidade;
+- convicção de que a participação social e o exercício da cidada-nia são práticas indissociáveis da Educação Ambiental;
+- preocupação concreta em estimular o debate e o diálogo entre ciências e cultura popular, redefinindo objetos de estudo e sa-beres;
+- indissociação no entendimento de processos como: produção e consumo; ética, tecnologia e contexto socio-histórico; interes-ses privados e interesses públicos;
+- busca de ruptura e transformação dos valores e práticas sociais contrários ao bem-estar público, à eqüidade e à solidariedade.
+
+Tais blocos dinâmicos, além de serem influenciados por concep-ções pedagógicas distintas, fundadas sob modos específicos de se enten-der a educação e suas finalidades sociais, definiram-se, no que se refere à compreensão de mundo e sociedade, a partir da apropriação de dois mé-todos que, independentemente da “questão ambiental” ser um objeto de interesse direto ou não, se estruturaram em cima de categorias centrais para a perspectiva ambientalista (integração, totalidade, processos, movi-mento, relações, entre outras). Em termos gerais, o primeiro bloco men-cionado está fortemente influenciado pela Teoria dos Sistemas Vivos, pela Teoria Geral dos Sistemas, pela visão holística, pela Cibernética e pelo pragmatismo ambientalista da proposta de “alfabetização ambiental” nor-te-americana. E o segundo, mais inserido nos debates clássicos do campo da educação propriamente dita, pela dialética em suas diferentes formu-lações de orientação marxista ou em diálogo direto com esta.
+
+Contudo, devemos alertar para o fato de que tal uso não se deu de modo estanque e sem a busca de interlocuções e diálogos, por vezes pro-veitosos, por vezes equivocados. Para exemplificar o que estamos dizendo, no campo do “diálogo profícuo” lembramos que há autores de reconhe-
+
+1476
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+cido e notório saber que procuraram estabelecer novas sínteses entre es-ses métodos, dos quais se destacam Edgard Morin (reunindo a dialética em Heráclito, Hegel e Marx, Teoria dos Sistemas, Teoria da Informação e Cibernética, para sistematizar a Teoria da Complexidade) e Enrique Leff (reunindo Teoria da Complexidade, hermenêutica e dialética marxista). No que se refere às apropriações indevidas de categorias conceituais de pensamentos contrários no modo de entender o mundo e as finalidades da educação, encontramos, não raramente, educadores ambientais que re-alizam suas ações no campo de uma pedagogia conservadora, do pragmatismo ambientalista norte-americano e sob abordagens ecológicas sistêmicas funcionalistas e organicistas, utilizando-se discursivamente de autores críticos como Moacir Gadotti e Paulo Freire, sem dialetizar e discernir o que há de contribuição possível e recíproca e o que é absolu-tamente incongruente (Loureiro, 2004).
+
+Considerações iniciais feitas, é oportuno analisar as formulações sistêmicas clássicas e a matriz holística normalmente a esta associada, pela recorrência entre educadores ambientalistas, à luz de uma abordagem dialética histórica em permanente diálogo com a Teoria da Complexida-de e focada no sentido educativo das práticas em Educação Ambiental. Com isso, pretendemos problematizar categorias conceituais estruturan-tes e explicitar as implicações político-pedagógicas da incorporação pou-co reflexiva dessas visões sociais de mundo significativas para a Educação Ambiental, indicando, ao final, conceitos relevantes para o entendimen-to de sua vertente emancipatória ou transformadora, inspirada primordi-almente na pedagogia freireana e, de modo menos direto, em autores que no campo da educação conformaram as pedagogias críticas.
+
+# Problematizando as orientações teórico-metodológicas da Educação Ambiental
+
+Não é incomum se falar dentro do jargão ambientalista de visão sistêmica em sentido amplo, incluindo aí perspectivas dos mais dife-rentes tipos, posto que um sistema pode ser definido como um con-junto de partes coordenadas entre si, cujas leis ordenam os fenômenos que são vistos prioritariamente como fluxos e processos, ou no dizer de Bertalanffy (1977), como um conjunto de unidades em inter-relações mútuas. Assim, desde o próprio pensamento dialético hegeliano ou marxista até a cibernética e a robótica, passando pelas filosofias orien-
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1477
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+tais, o funcionalismo, o organicismo e o holismo, todos literalmente ca-bem no rótulo de serem formulações sistêmicas. No entanto, essa “bon-dosa” generalidade conceitual complica mais do que facilita o entendi-mento do que fundamenta a Educação Ambiental. A Teoria da Complexidade em Morin, a dialética marxista e o holismo não com-partilham da mesma epistemologia (Petraglia, 2001). Particularmente ao confrontarmos as duas primeiras em relação à terceira verificamos construções distintas no que se refere aos conceitos de totalidade, de compreensão da relação parte-todo e de educação. Assim, sem ignorar o fato de que a visão sistêmica vem sendo incorporada por diferentes ciências, adquirindo significados próprios, aqui, para efeito de análise, vamos nos referir a esta, a seguir, em sentido estrito. Aos seus funda-mentos consolidados em meados do século XX, quando tal denomina-ção ganhou aceitação nos meios acadêmicos, científicos e filosóficos, tendo por base a Teoria Geral dos Sistemas e os modelos clássicos oriun-dos da física, da biologia e da sociologia funcionalista.
+
+Ao pensarmos a educação, enquanto práxis social cujo fim é o apri-moramento humano naquilo que pode ser aprendido e recriado a partir dos diferentes saberes existentes em uma cultura, de acordo com as ne-cessidades, possibilidades e exigências de uma sociedade, alguns proble-mas se explicitam no uso de abordagens sistêmicas.
+
+O primeiro e principal é a leitura direta dos fenômenos sociais fun-damentada em modelos matriciais de retroação alimentados por elos de *feedback*, relativizando-se ou ignorando-se que o ambiente é também pro-duto do trabalho e da práxis humana. Tal leitura ocasiona um grau de in-certeza e mutabilidade e de ação intencional para além da previsibilidade de qualquer modelo, por mais dinâmico e relacional que este consiga ser. Uma coisa é alimentação e retroalimentação, outra bem distinta é inter-venção e criação consciente pela ação mediada culturalmente. Formular um pensamento sistêmico em cima de fluxos energéticos, materiais e termodinâmico, enfatiza adequadamente os organismos vivos, mas dissolve a existência, a cultura e demais fenômenos tipicamente humanos.
+
+Para Floriani e Knechtel (2003), as visões sistêmico-holísticas e o sistemismo formal contribuem efetivamente para a emergência de paradigmas que procuram relacionar sistemas sociais e sistemas naturais estrito senso, em construções interdisciplinares baseadas no conceito de autopoiese. Contudo, como destacam os referidos autores, nesse movi-mento recaem na perigosa certeza de se ter alcançado o “modelo do mo-
+
+1478
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+delo” ou o “método unificador” de todas as ciências e saberes, sintetizan-do em matrizes sistêmicas os processos materiais e mentais das socieda-des humanas e da vida. Acabam, assim, por reproduzir o equívoco do positivismo e de algumas correntes marxistas que consideravam, cada um a seu modo e à sua época, haverem descoberto o único método capaz de apontar a verdade. Considerando o ambiente enquanto “complexidade do mundo” (Leff, 2001, p. 17), não há um único método válido, mas métodos que, ao trabalharem com a perspectiva da totalidade, podem e devem dialogar entre si, reconhecendo as especificidades de cada ciência e de outros métodos, num processo aberto que permita a redefinição dos objetos de cada ciência e recortes da materialidade da vida (Leff, 2003).
+
+Além disso, segundo Morin (2003), apesar de Bertalanffy (op. cit.) proclamar a possibilidade do conflito em um sistema, não desenvolve esta importante noção. Como resultado desse tipo de formulação, o sistema vira sinônimo de harmonia, funcionalidade, síntese superior que coman-da as partes; algo incapaz de ser pensado em suas contradições, sem as quais não existem organização e transformação. Essa simplificação se dá prioritariamente por duas premissas não necessariamente consonantes. Uma primeira em que o conflito e o antagonismo são reduzidos ao senti-do de diversidade natural, previsíveis na dinâmica sistêmica, e não en-tendidos como constituintes da desordem na organização da vida e das estruturas históricas e sociais que formam a realidade complexa. E outra, em que o conflito é visto como uma fragilidade, uma incorreção a ser superada quando o ser humano atingir seu estado integral, ou seja, har-mônico, numa concepção similar ao positivismo de Augusto Comte e ao evolucionismo spenceriano.
+
+Um outro aspecto, a ser considerado dentro das pretensões de um artigo, decorre de uma possibilidade de raciocínio lógico-formal. Um sis-tema dinâmico procura sempre se recompor e readequar às relações de modo a funcionar plenamente e em equilíbrio, e isso é válido para siste-mas ecológicos ou sociais. Caso desconsidere-se, nesse ponto em particu-lar, a especificidade histórica humana, pode-se recair no funcionalismo organicista, em que as mudanças se dão para o bom funcionamento do sistema (em termos de sociedade contemporânea, do capitalismo). A con-clusão é inevitável: o que pode ser feito com a sociedade é torná-la ambientalmente sustentável e não superá-la. E isso acarreta uma visão sistêmica politicamente conservadora e reformista, em que a educação aí se inscreve para cumprir a função social de fazer as pessoas se adaptarem
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1479
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+e aceitarem determinado modo de organização social como se este fosse a-histórico ou “natural” (algo que é assim porque é).
+
+O entender a relação sociedade-natureza como uma relação ideal ou genérica naturaliza o que é social, no sentido de perda de historicidade, e estabelece de modo apriorístico o que é uma interação perfeita da humani-dade na natureza. Essas concepções fragilizam a possibilidade de constru-ção pelos educadores ambientais de um projeto societário alternativo e de uma prática educativa crítica, cidadã e popular. Numa perspectiva dialética, sociedade e natureza se fusionam pela práxis histórica (Schmidt, 1983), cuja unidade não pode ser confundida com a diluição de uma dimensão na outra. Cumpre ter presente que a humanidade não se constitui como unidade homogênea e que as condições decorrentes da atuação humana no ambiente são definidas em função de cada modo de vida social, em interação com as condições ecológicas de sustentação. A visão que o marco teórico emancipatório em Educação Ambiental tem da humanidade é que esta é a unidade dialética com a natureza, em que os sujeitos são pensados concretamente e não abstratamente.
+
+Em Educação Ambiental, as formulações sistêmicas geralmente es-tão associadas a premissas teóricas da visão holística, enquanto modo de pensar a totalidade e campo filosófico específico. Isso tem que ser ressalta-do, pois não é raro encontrarmos seu uso como uma “idéia-força” impreci-sa para denotar a preocupação com o todo. Suas formulações mais comuns no país, influenciadas pela teoria produzida por Fritjof Capra nos anos 1980 e 1990 (Capra, 1982, 1988, 1993), particularmente pelo que este chamou de “alfabetização ecológica”, e por autores do Movimento Holístico Internacional (Crema, 1989 e Weil, 1990, 1994), apresentam igualmente alguns problemas que merecem atenção e reflexão crítica.
+
+Os holísticos tendem a reificar, deificar ou sacralizar a natureza, retirando desta a dimensão humana em seu processo contínuo de trans-formação – ao estilo dos *Deep Ecology*. Buscam, dessa forma, a (re) liga-ção cósmica, capaz de encontrar uma autenticidade humana latente, como se esta tivesse sido perdida em algum tempo passado, numa atitu-de dogmática, de cunho religioso e de distanciamento indevido entre o natural e o social. Além disso, ao colocarem a “harmonização” com a na-tureza enquanto resultante de um movimento essencialmente espiritual, de transcendência pessoal, focalizam a educação como processo essencial-mente individual, vivencial e comportamental, sem mediações sociais ou maiores preocupações com as dimensões coletivas, sociopolíticas e
+
+1480
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+societárias, posto que a condição para mudar o cenário contemporâneo passa a se situar nas pessoas e não no modo como socialmente nos orga-nizamos, dissociando indivíduo-sociedade.
+
+No dizer de Morin (2003), o princípio holista é baseado numa to-talidade simplificante, pois seus adeptos tendem a pensar o todo como se este fosse sinônimo de tudo, simplificando as relações e implicações mútu-as e constitutivas entre partes e todo, suas irredutibilidades nas esferas da vida, e entre níveis diferenciados de totalidades. Numa visão complexa, pensada a partir de uma abordagem crítica e dialética de totalidade, inexiste um todo hipostasiado, descolado do movimento contínuo entre desordem/interações/ordem/organização. E nem é possível pensar o cosmos no qual existimos sem a nossa ação ativa. “Não é somente a humanidade que é um subproduto do devir cósmico, é também o cosmos que é um subproduto de um devir antropossocial.” (Morin, op. cit., p. 120).
+
+Os holistas e sistêmicos funcionalistas ou organicistas minimizam os conflitos entre grupos e classes sociais em nome de uma cooperação e de um amor abstrato que pode, hipoteticamente, nos levar à harmonia com a natureza, como se existisse um estado absoluto e atemporal. Ten-dem, portanto, a desconsiderar o modo como tais valores se definem em sociedade e o movimento objetivo da realidade para além da ética e das idéias. Isso dificulta a construção de um “amor concreto” e de uma soli-dariedade que sejam decorrentes da explicitação das contradições e esta-belecimento do diálogo, considerando os diferentes “lugares” ocupados pelos agentes sociais numa sociedade historicamente definida. A Educa-ção Ambiental holística se define como caminho para a superação por completo do conflito em nome da harmonia e do consenso, desconhe-cendo-se a dinâmica contraditória das sociedades humanas e históricas e ignorando-se o risco de se defender unilateralmente valores hegemônicos das classes dominantes como os mais corretos, “ecologicamente adequa-dos”, a serem, portanto, incorporados por aqueles que não possuem “cons-ciência ambiental”. Logo, o sentido de se construir coletivamente o que for melhor ambientalmente e para a vida, como resultante de um pro-cesso dialógico e democrático entre grupos sociais, seus saberes, culturas e necessidades distintas, fica prejudicado ou secundarizado.
+
+Criam procedimentos de (re) ligação com a natureza, ampliando nossa condição de ser vivo, a partir de processos individualizados, psico-lógicos e místicos – é o “eu” em sintonia com o universo cósmico, sem mediações sociais. Isso acarreta a compreensão de que somos organismos
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1481
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+essencialmente biológicos e espirituais, não dando a devida relevância ao cultural, social e econômico – deixamos, portanto, de nos definirmos como seres multidimensionais e complexos. O mais grave, em termos po-líticos e de educação enquanto prática dialógica, é que tal prática holística promove um deslocamento da esfera pública de discussão e construção de projetos societários alternativos para a esfera privada e pessoal, subje-tiva e sobrevivencial (Pelizzoli, 2002).
+
+Enfatizam a “ecologização” da pedagogia, ao estilo da proposta de alfabetização ecológica de Capra (2003), priorizando as relações ecossis-têmicas a partir de conceitos estruturantes da Ecologia vinculados a pro-cessos cooperativos, num enfoque ideologicamente biologizante. Tal ênfase dilui o entendimento do modo como as sociedades, os indivíduos e a cul-tura se definem mutuamente, e a capacidade de atuarmos politicamente. Mesmo quando partem de pedagogias construtivistas tendem a despolitizar a educação e a esvaziá-la como prática social. Associam a natureza à har-monia e dão destaque ao entendimento das relações ecológicas que são ba-seadas na cooperação, minimizando as que são fundadas na competição, quando ambas são indispensáveis para se entender o equilíbrio dinâmico que define a vida e, por analogia, as categorias que formam o todo social: conflito/consenso, cooperação/antagonismo, diálogo/dissenso. Por fim, não apresentam necessariamente como pressuposto pedagógico a construção participativa de temas geradores e o conhecimento coletivo e problema-tizador da realidade em que os grupos sociais se inserem. Tal posiciona-mento encontra-se em evidente contraposição a um dos princípios elemen-tares da pedagogia freireana, uma vez que esta considera a problematização e a tomada de consciência coletiva da realidade vivida parte inerente ao pro-cesso educativo e de intervenção política com vistas à transformação social (Freire, 1988).
+
+Após a análise teórica feita, chegamos às mesmas conclusões que Petraglia (2001), no que se refere ao sentido da educação para essas amplas visões sociais de mundo e tradições teórico-metodológicas em que se baseia a perspectiva ambientalista, em pesquisa realizada junto a intelectuais in-seridos nas abordagens holística e complexa. O pensamento complexo e a tradição dialética, principalmente em sua formulação pedagógica freireana, enfatizam a educação enquanto processo permanente, cotidiano e coletivo pelo qual agimos e refletimos transformando a realidade de vida. Está focada na pedagogia do conflito, no princípio da incerteza, como forma de se estabelecer movimentos emancipatórios e políticos de transformação so-
+
+1482
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+cial. A visão holística está centrada no indivíduo, no alcançar a condição de ser humano integral e harmônico, o que reforça os pressupostos de existên-cia de finalidades previamente estabelecidas na natureza e de relações ide-ais que fundamentam a pedagogia do consenso. Focaliza o ato educativo enquanto estímulo ao potencial transcendental que há em cada um de nós, com uma tendência a se aceitar a ordem social estabelecida como condição dada. O importante para essa vertente não é pensar processos educativos que associem mudança pessoal à mudança societária como pólos indisso-ciáveis na requalificação de nossa inserção na natureza e na dialetização en-tre subjetividade-objetividade; mas sim pensar a transcendência integra-dora, a transformação da pessoa pela ampliação da consciência, como caminho único para se obter a união com a natureza, subordinando a racionalidade à subjetividade. Em síntese, em termos das implicações sociopolíticas e de concepção do sujeito em sociedade e na natureza, “En-tendemos que a complexidade se presta mais a uma educação emancipadora porque favorece a reflexão do cotidiano, o questionamento e a transforma-ção social, enquanto a holística, ao propor o consenso de uma pedagogia que visa a harmonia e a unidade, acaba por estimular a domesticação e a acomodação” (Petraglia, op. cit., p. 144).
+
+# Categorias estruturantes da Educação Ambiental
+
+Após as considerações críticas sobre as implicações da visão holística e sistêmica na Educação Ambiental, cabe reapresentar algumas categorias que definem uma abordagem complexa, dialética e emancipatória em edu-cação. Falamos em reapresentar, uma vez que são categorias tradicionais e comuns para determinada orientação em educação que aqui são destacadas e afirmadas sob um olhar ambientalista de modo a esclarecer confusões re-correntes no discurso de educadores ambientais. Com isso, não estamos querendo dizer que limites não possam ser apontados, pelo contrário, de-vemos fazê-lo até para avançarmos teoricamente, movimento que foi opor-tunamente realizado, por exemplo, pelo próprio autor ao explicitar contra-dições no modo de entendimento da natureza nas escolas marxistas do início do século XX (Loureiro, 2003a e 2004). Contudo, é preciso enten-der que, para uma educação concebida como meio de transformação social e cultural e ação política emancipatória, essa vertente apresenta inegável va-lidade e conceitos vitais que evitam os problemas anteriormente indicados nas outras visões fundantes da Educação Ambiental.
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1483
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+A Educação Ambiental de conteúdo emancipatório e transformador é aquela em que a dialética forma e conteúdo se realiza de tal maneira que as alterações da atividade humana, vinculadas ao fazer educativo, impliquem mudanças individuais e coletivas. Em que a dimensão política da educação seja “a arte do compromisso e da intransigência” (Morin, 2002b, p. 43) – compromisso com a transformação societária e intransigência na defesa dos valores, atitudes individuais e ações coletivas condizentes com a emancipa-ção. Em que a dialética da vida seja um movimento ético e material, pois “trata-se ao mesmo tempo de mudar de vida e transformar o mundo, de re-volucionar o indivíduo e de unir a humanidade” (Morin, 1999, p. 188).
+
+Conteúdo emancipatório é entendido, nesse contexto, enquanto movimento de libertação consciente e de superação permanente das for-mas de alienação material e simbólica, coletiva e individual, existentes em cada fase historicamente definida (Adorno, 2000). Educar é emancipar a humanidade, criar estados de liberdade diante das condições que nos co-locamos no processo histórico e propiciar alternativas para irmos além de tais condições. Não no sentido absoluto proposto pela Razão Iluminista e pela ciência moderna de matriz cartesiana e positivista. Estas acredita-ram na prosperidade humana progressiva baseada no conhecimento total e no domínio da realidade pela racionalidade objetiva, em que, portanto, haveria um momento futuro para atingirmos a plenitude como ser.
+
+A ação emancipatória é o meio reflexivo, crítico e autocrítico con-tínuo pelo qual podemos romper com a barbárie do padrão vigente de sociedade e de civilização, em um processo que parte do contexto societário em que nos movimentamos, do “lugar” ocupado por cada su-jeito, estabelecendo experiências formativas, escolares ou não, em que a reflexão problematizadora da totalidade, apoiada numa ação política, pro-picia a construção de sua dinâmica. Emancipar não é estabelecer o cami-nho único para a *salvação*, mas sim a possibilidade de construirmos os caminhos que julgamos mais adequados à vida social e planetária, diante da compreensão que temos destes em cada cultura e momento histórico, produzindo patamares diferenciados de existência.
+
+Nesse tipo de abordagem vinculada às pedagogias críticas ine-xistem, em resumo, relações entre seres humanos abstratos e natureza, mas relações entre sujeitos concretos, ou seja, indivíduos que existem em sociedade, e meio natural, formando uma totalidade que é a própria na-tureza – o que implica entender a natureza como uma categoria social e a sociedade como uma categoria natural (Marcuse, 1972; Schmidt, op.
+
+1484
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+cit.). Assim, o intercâmbio mutuamente constituinte entre partes e todo não é apenas orgânico, mas socialmente ativo.
+
+Para fins de sistematização dessa abordagem em Educação Am-biental, segue a descrição de três de suas categorias conceituais que substanciam o que é educar para a emancipação, visando à consolidação de padrões de sociedade compatíveis com a justiça ambiental pensada e realizada de modo unitário com a justiça social.
+
+## Dialética e transformação social
+
+Segundo Foulquié (1978), a origem da palavra dialética envolve dis-curso e razão, ou seja, se refere à discussão dialogada e racional que leva à compreensão. Logo, pode ser definida como a arte de, ao se dialogar, de-monstrar argumentos e defender teses, evidenciando os conceitos envolvi-dos na discussão. A tradição dialética pode ser dividida em dois momen-tos: (1) a que vem dos antigos gregos até Hegel e que é concebida como lógica baseada no princípio da contradição; (2) a partir de Hegel, em que
+
+o contraditório passa a ser a norma do pensamento e das coisas, sendo este
+
+o princípio que gera o movimento entre conservação e superação, ordem e desordem, e permite o entendimento complexo da totalidade e a organiza-ção da vida. Segundo esse filósofo, dialética é a estrutura de pensamento e
+
+o método que permitem apreendermos a realidade como fundamentalmen-te contraditória e em constante transformação.
+
+Marx, rompendo com o idealismo hegeliano e com a possibilidade aí inserida de se estabelecer sínteses e verdades absolutas, formula uma dialética baseada nos sujeitos concretos, nas relações sociais e nas condições históricas de vida – uma dialética que diz respeito, portanto, a como a vida é produzida, reproduzida e organizada (Naves, 2000). Para a dialética mar-xista as idéias são construídas na materialidade da vida e não o contrário, como no idealismo e nas teorias metafísicas, em que a vida é definida no plano ideal se exteriorizando no mundo material. Portanto, a matéria deixa de ser compreendida como coisas inertes e passíveis, e passa a ser definida como elementos em movimentos e relações, em que nenhum ser possui existência isoladamente (Engels, 1986). Em Marx, a dialética deixa de ser um método fundado para se obter verdades atemporais ou para se estabe-lecer um “jogo” entre argumentos e pensamentos e passa a definir as ver-dades como compreensões datadas e situadas no processo de transforma-ção da sociedade e de realização humana.
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1485
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+Por ser uma dialética materialista-histórica, Marx enfatiza em sua obra o movimento de transformação social, a partir do entendimento do modo como produzimos e nos organizamos. Para o autor, o que importa não é apenas interpretar e especular, mas agir e transformar. A transfor-mação da história humana se dá pelos próprios humanos, mas não seres abstratos e sim concretos, definidos pelas relações estabelecidas entre as esferas da vida social (política, cultural, filosófica, econômica etc.).
+
+Partindo de Foulquié (op. cit.), e Marx e Engels (1986), num es-forço de sistematização, certos princípios da dialética merecem destaque no escopo do presente texto:
+
+- Existe interdependência ativa entre as partes do real.
+- Tudo está em devir, em transformação permanente. Matéria e pensamento em repouso significam fim da vida.
+- O movimento cria o novo, não pela evolução circular ou linear, mas pela revolução que implica mudança qualitativa e não ape-nas quantitativa.
+- O real é intrinsecamente contraditório e é isso que garante o movimento da vida.
+- Pelo caráter contraditório da história e do pensamento, as ver-dades são provisórias.
+
+A dialética marxista se contrapõe às epistemologias metafísicas, à me-dida que estas colocam a essência como algo imutável, num descolamento entre idéia e matéria, em que a mudança das coisas torna-se um fenômeno superficial de algo mais denso e invariável. Para Konder (1997), esse tipo de lógica de pensamento foi e é dominante na história porque corresponde aos interesses das elites e classes dominantes, preocupadas em dar sentido universal e absoluto a seus valores e instituições que normatizam a vida em sociedade, inviabilizando a possibilidade racional de se buscarem mudan-ças sociais profundas. Afinal, se a essência é absoluta e os valores e o modo de organização social a expressam de forma completa, a sociedade não pode ser transformada, apenas ajustada e aprimorada.
+
+No que se refere especificamente à discussão acerca da relação so-ciedade-natureza, é possível sintetizar alguns princípios da dialética por nós elencados em obras recentes (Loureiro, 2003a e 2004), a partir de Harvey (1996):
+
+1486
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+- Elementos são demarcados por todos estruturados. A *coisa *ou o sistema devem ser entendidos e fundamentados nas relações que os constituem. Nada se define em si como parte isolada. Tudo é fluxo e processo relacional, singularidade e totalidade.
+- Elemento e sistema são perpetuamente constituídos e reconsti-tuídos por múltiplos processos.
+- Partes e todos são mutuamente constitutivos de cada um, o que implica dizer muito mais do que a existência de retroalimentação entre eles.
+- Há intercâmbio entre sujeito e objeto, causa e efeito, em conse-qüência, os organismos são sujeitos e objetos da evolução e os indivíduos humanos, sujeitos e objetos do processo de mudança social.
+- Mudança é a norma das *coisas *e sistemas e a história é feita pelo movimento permanente de transformação social, cultural, polí-tica e econômica, com profundas implicações sobre o ambiente, o sentido de natureza e de realização da natureza humana.
+
+Em termos das implicações políticas para a Educação Ambiental, adotar a perspectiva dialética significa reconhecer os sujeitos do processo educativo, ou seja, entender que os atores capazes de transformação soci-al se definem vinculados ao modo de produção, à vida cotidiana particu-lar e coletiva, ao Estado, e que estes devem participar com suas especificidades no trabalho pedagógico dialógico e comunicativo.
+
+## Pensamento complexo, dialética e totalidade
+
+Na obra de Morin posterior à década de 1960, a complexidade se refere ao sentido de que a vida, em suas manifestações, se constitui por dimensões interconectas, definidas mutuamente nas relações estabele-cidas, envolvendo ordem e desordem, erro e acerto, compromisso e intransigência, risco e certeza, numa autoprodução e reorganização per-manente (Morin, 1999). O pensamento complexo busca fundamental-mente superar os paradigmas simplificadores que operam a disjunção ser humano/natureza ou que reduzem o ser humano à natureza de modo indistinto. Nessa perspectiva, a realização da natureza humana é aquilo que nos distingue como seres naturais das demais espécies: produzirmos
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1487
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+nossa história e os *meios de vida*, numa ação que pressupõe a capacidade de definir objetivos com consciência e o uso da cultura, da linguagem e da cooperação.
+
+Posto que nada se define em si e de modo atemporal, mas em relações históricas e ecossistêmicas, e que somos seres específicos, sujei-tos concretos, a tradição dialética marxista é, dentre as que se enqua-dram no pensamento complexo ambiental associado às pedagogias crí-ticas, uma das que se propõe a teorizar e realizar a educação em bases contextualizadas, dando concretude às alternativas de superação ao modo como vivemos em sociedade. Como disse Marx (1999, p. 39), “o concreto é o concreto porque é a síntese de múltiplas determina-ções, isto é, unidade do diverso”. Portanto, os indivíduos, os bens pro-duzidos e os fatos tornam-se concretos à medida que conheçamos a to-talidade que define cada indivíduo, fato ou bem produzido em relação à totalidade maior em que se inserem, num exercício complexo de totalização (Konder, 2002).
+
+A dialética, como princípio metodológico, significa racionalmen-te compreender que o singular ganha sentido em suas relações (totalizações) e que o todo é mais que a soma de singularidades e ao mesmo tempo diferente do singular, que tem suas propriedades pró-prias, num movimento de mútua constituição envolvendo não só o ob-jetivo, o teórico e o coletivo, mas o subjetivo, o indivíduo, o espiritual e o intuitivo (Löwy, 1999). Como categoria metodológica, significa in-tegrar teoria e prática, consciência e ser, matéria e idéia no processo his-tórico (Löwy, 2002). No pensamento dialético, o exercício totalizador busca a complexidade na ação que será sempre parcial, particular e his-toricamente condicionada. Segundo Konder (1997), qualquer objeto que possamos perceber ou criar é parte de um todo, por isso, a busca de soluções para os problemas depende de uma visão de conjunto, sem-pre provisória e que não esgota a realidade, mas é decisiva para que se possa situar e avaliar a dimensão de cada elemento dentro de uma es-trutura significativa.
+
+É importante lembrar que os conceitos de totalidade e comple-xidade para a educação não representam a negação da individualidade, mas sim do atomismo, posto que a individualidade concreta não é a que expressa o egoísmo e o isolamento do mundo (individualidade abs-trata), mas a liberdade integrada no mundo (Löwy, 1989). Liberdade não é uma idéia transcendental, no sentido de se ir além das limitações
+
+1488
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+inerentes à natureza humana, que não são, portanto, limites castradores, mas sim condicionantes da nossa existência e meios de satisfação (co-mer, dormir, reproduzir, excretar etc.). Possui um caráter prático-trans-formador que se refere à superação pela práxis dos limites definidos na história (exclusão social e cultural, falta de acesso igualitário aos bens produzidos, despolitização, cidadania cerceada etc.).
+
+Os sistemas filosóficos morais (teológicos, dualistas e idealistas), que colocam na essência humana valores vistos como atemporais e a-históricos (egoísmo, maldade, bondade, culpa, inocência etc.), querem libertar o ser humano de uma natureza entendida como “animal” ou “bruta” à qual são associados os valores “primitivos”. Isso é, em última instância, a negação da natureza humana, pois estabelece a vida material como a limitação da li-berdade que se dá em um plano espiritual, portador das virtudes, dicotomizado da vida. Nessa visão, quanto mais nos espiritualizamos (em sentido abstrato), mais nos afastamos da essência “selvagem” que é caracte-rizada por valores negativos. Ao se pensar de tal modo, a natureza torna-se um obstáculo e uma externalidade, e como o ser humano é natureza, a própria liberdade torna-se uma entidade fictícia ou, paradoxalmente, ex-clusivamente interna ao indivíduo concebido fora da história e da socieda-de em seu processo de realização (Mészáros, 1981).
+
+## Práxis e educação
+
+No dizer de Konder (1992), a práxis é a atividade concreta pela qual o sujeito se afirma no mundo, modificando a realidade objetiva e sendo modificado, não de modo espontâneo, mecânico e repetitivo, mas reflexivo, pelo autoquestionamento, remetendo a teoria à prática. Práxis “implica a ação e a reflexão dos homens sobre o mundo para transformá-lo” (Freire, 1988, p. 67). Refere-se à ação intersubjetiva, entre pessoas e dos cidadãos. É uma atividade relativa à liberdade e às escolhas conscien-tes, feitas pela interação dialógica e pelas mediações que estabelecemos com o outro, a sociedade e o mundo. É, portanto, um conceito central para a educação e, particularmente, para a Educação Ambiental, uma vez que conhecer, agir e se perceber no ambiente deixa de ser um ato teóri-co-cognitivo e torna-se um processo que se inicia nas impressões genéri-cas e intuitivas e que vai se tornando complexo e concreto na práxis.
+
+Esse é um aspecto decisivo para nos inserirmos numa visão emancipatória de educação. Na atividade humana coletiva nos educamos,
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1489
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+com sujeitos localizados temporal e espacialmente. Ter clareza disso é o que nos leva a atuar em Educação Ambiental, mas não a partir do dis-curso genérico de que todos nós somos igualmente responsáveis e vítimas do processo de degradação ecossistêmica. Educar para transformar é agir em processos que se constituem dialogicamente e conflitivamente por atores sociais que possuem projetos distintos de sociedade, que se apro-priam material e simbolicamente da natureza de modo desigual. Educar para emancipar é reconhecer os sujeitos sociais e trabalhar com estes em suas especificidades. A práxis educativa transformadora é, portanto, aque-la que fornece ao processo educativo as condições para a ação modifica-dora e simultânea dos indivíduos e dos grupos sociais; que trabalha a par-tir da realidade cotidiana visando à superação das relações de dominação e de exclusão que caracterizam e definem a sociedade capitalista globalizada.
+
+A educação não é a atividade de um sujeito pronto e constituído fora da transformação das condições objetivas. Tem de ser “a atividade de um sujeito que, ao enfrentar o desafio de mudar o mundo, enfrenta tam-bém o desafio de promover sua própria transformação” (Konder, 1992, p. 117). A força educativa inovadora está na capacidade de trabalhar com a racionalidade e com as paixões, com a escolha e com a necessidade, com o fato objetivo e com as crenças, refletindo e agindo.
+
+A educação é um dos meios humanos que garantem aos sujeitos, por maior que seja o estado de miséria material e espiritual e os limites de opções dados pelas condições de vida, o sentido de realização ao atuar na história modificando-a e sendo modificados no processo de construção de alternativas ao modo como nos organizamos e vivemos em sociedade.
+
+# Considerações finais
+
+Consideramos relevante e urgente a demarcação dos distintos “cam-pos ambientais em disputa” na conformação da Educação Ambiental, publicizando o debate e o diálogo entre tendências de modo a favorecer o entendimento das implicações práticas, pedagógicas e políticas no uso das tradições que historicamente fundamentam a área. É absolutamente crucial, para a concretização de um novo patamar qualitativo da produ-ção acadêmica em Educação Ambiental, que se aprofunde a reflexão teó-rica acerca daquilo que pode tornar possível ao educador discernir uma concepção ambientalista e educacional conservadora e tradicional de uma
+
+1490
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+emancipatória e transformadora, e as variações e nuances que em ambas se inscrevem, problematizando-as, relacionando-as e superando-as permanen-temente. E mais, entender como seus pressupostos são definidos no esco-po das tradições sistêmicas, holísticas, complexas e dialéticas e quais são as implicações de cada uma no processo educativo e na explicitação de sua finalidade social. No discurso “harmonioso” feito em nome da *salvação pla-netária*, de defesa e afirmação de um “método unificador” das ciências, cria-se a ilusão de que todos os que fazem Educação Ambiental estão dentro de uma mesma orientação teórico-prática, como se as categorias conceituais que a sustentam – destacadamente participação, interdisciplinaridade, vi-são integradora do ambiente, respeito à diversidade biológica e cultural – não permitissem diferentes apropriações e usos, dependendo da concepção teórica, do lugar social ocupado pelos sujeitos e da compreensão de socie-dade da qual se parta.
+
+A problematização feita em torno das formulações sistêmicas e holísticas não as desmerece em seus significados para a “questão ambiental”, principalmente no repensar a vida, as relações ecossistêmicas, a integralida-de do ser humano e o que seria uma ética planetária, mas procura eviden-ciar seus limites quando pensadas no contexto educacional e dos sentidos que a educação cumpre e assume na sociedade contemporânea. Com o contraponto feito, por fim, reiteramos a atualidade e centralidade da dia-lética marxista e da Teoria da Complexidade para a compreensão do modo como nos organizamos e historicamente nos constituímos enquanto seres biológicos e sociais. E, no escopo do que é significativo para a Educação Ambiental, destacamos a relevância destas para o entendimento das bases teórico-metodológicas fundantes das pedagogias críticas, promotoras de processos emancipatórios e da ação política em busca de patamares societários que permitam requalificar concretamente a inserção humana na natureza.
+
+*Recebido em março de 2004 e aprovado em julho de 2004.*
+
+# Referências bibliográficas
+
+ADORNO, T. W. *Educação e emancipação*. 2. ed. São Paulo: Paz &amp; Terra, 2000.
+
+BERTALANFFY, L. V. *Teoria geral dos sistemas*. Petrópolis: Vozes, 1977.
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1491
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+CAPRA, F. *O ponto de mutação*. São Paulo: Cultrix, 1982. CAPRA, F. *Sabedoria incomum*. São Paulo: Cultrix, 1988. CAPRA, F. *O Tao da Física*. 9. ed. São Paulo: Cultrix, 1993.
+
+CAPRA, F. Alfabetização ecológica: o desafio para a educação do século
+
+21. In: TRIGUEIRO, A. (Coord.). *Meio ambiente no século 21*: 21 especialis-tas falam da questão ambiental. Rio de Janeiro: Sextante, 2003.
+
+CREMA, R. *Introdução à visão holística*. São Paulo: Summus, 1989.
+
+ENGELS, F. Anti-Dühring. In: MARX, K.; ENGELS, F. *Obras fundamentales*. México: Fondo de Cultura Económica, 1986.
+
+FLORIANI, D.; KNECHTEL, M.R. *Educação ambiental, epistemologia e metodologias*. Curitiba: Vicentina, 2003.
+
+FOULQUIÉ, P. *A dialética*. Lisboa: Europa-América, 1978.
+
+FREIRE, P. *Pedagogia do oprimido*. 18. ed. Rio de Janeiro: Paz &amp; Terra, 1988.
+
+HARVEY, D. *Justice, nature and the geography of difference*. Oxford: Blackwell, 1996.
+
+KONDER, L. *O futuro da filosofia da práxis*. 2. ed. Rio de Janeiro: Paz &amp; Terra, 1992.
+
+KONDER, L*. O que é dialética*. 28<sup>.</sup> ed. São Paulo: Brasiliense, 1997. KONDER, L. *A questão da ideologia*. São Paulo: Cia das Letras, 2002. LEFF, E. *Epistemologia ambiental*. São Paulo: Cortez, 2001.
+
+LEFF, E. *A complexidade ambiental*. São Paulo: Cortez, 2003.
+
+LIMA, G.F.C. Crise ambiental, educação e cidadania: os desafios da sus-tentabilidade emancipatória. In: LOUREIRO, C.F.B., LAYRARGUES, P.P.; CASTRO,
+
+R.S. (Org.). *Educação ambiental: *repensando o espaço da cidadania. São Paulo: Cortez, 2002.
+
+LOUREIRO, C.F.B. *O movimento ambientalista e o pensamento crítico:*
+
+uma abordagem política. Rio de Janeiro: Quartet, 2003a.
+
+1492
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+Carlos Frederico Bernardo Loureiro
+
+LOUREIRO, C.F.B. (Org.) *Cidadania e meio ambiente*. Salvador: Centro de Recursos Ambientais da Bahia, 2003b.
+
+LOUREIRO, C.F.B. *Trajetória e fundamentos da educação ambiental*. São Paulo: Cortez, 2004.
+
+LOUREIRO, C.F.B.; LAYRARGUES, P.P.; CASTRO, R.S. (Org.). *Edu-*
+
+*cação ambiental*: repensando o espaço da cidadania. São Paulo: Cortez, 2002.
+
+LÖWY, M. *Método dialético e teoria política*. 4. ed. Rio de Janeiro: Paz &amp; Terra, 1989.
+
+LÖWY, M. *Ideologias e ciências sociais*. 13. ed. São Paulo: Cortez, 1999.
+
+LÖWY, M. *A Teoria da revolução no jovem Marx*. Petrópolis: Vozes, 2002.
+
+MARCUSE, H. *Idéias sobre uma teoria crítica da sociedade*. Rio de Janeiro: Zahar, 1972.
+
+MARX, K. *Para a crítica da economia política*. São Paulo: Nova Cultural, 1999.
+
+MARX, K.; ENGELS, F. *Obras fundamentales*. México: Fondo de Cultura Económica, 1986.
+
+MÉSZÁROS, I*. Marx: *a teoria da alienação. Rio de Janeiro: Zahar, 1981.
+
+MORIN, E. *O paradigma perdido: *a natureza humana. 6. ed. Lisboa: Europa-América, 1999.
+
+MORIN, E. *Os sete saberes necessários à educação do futuro*. 6. ed. São Paulo: Cortez, 2002a.
+
+MORIN, E. *Em busca dos fundamentos perdidos*. Porto Alegre: Sulina, 2002b.
+
+MORIN, E. *O método I: *a natureza da natureza. 2. ed. Porto Alegre: Sulina, 2003.
+
+NAVES, M. B. *Marx: *ciência e revolução. São Paulo: Moderna, 2000. PELIZZOLI, M. L. *Correntes da ética ambiental*. Petrópolis: Vozes, 2002. PETRAGLIA. I. *Olhar sobre o olhar que olha*. Petrópolis: Vozes, 2001.
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
+
+1493
+
+Complexidade e dialética: contribuições à práxis política e emancipatória...
+
+SCHMIDT, A. *El concepto de naturaleza en Marx. *4. ed. Madrid: Siglo XXI, 1983.
+
+WEIL, P. *Holística*: uma nova visão e abordagem do real. São Paulo: Palas Athena, 1990.
+
+WEIL, P. *A nova ética. *2. ed. Rio de Janeiro: Rosa dos Tempos, 1994.
+
+1494
+
+*Educ. Soc.*, Campinas, vol. 26, n. 93, p. 1473-1494, Set./Dez. 2005
+
+Disponível em &lt;<a href="http://www.cedes.unicamp.br/">http://www.cedes.unicamp.br</a>&gt;
