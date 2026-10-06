@@ -1,0 +1,8 @@
+# 1. Adiciona a pasta e os novos arquivos ao rastreamento do Git
+git add fotos/
+
+# 2. Cria o commit descrevendo as alterações
+git commit -m "docs: adiciona pasta de fotos para documentacao"
+
+# 3. Envia os arquivos e a pasta para o GitHub
+git push origin main
