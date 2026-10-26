@@ -78,7 +78,7 @@
 * **6.7** - Agricultura Urbana como Ativismo - O caso da Horta das Corujas_NAGIB.pdf
 * **6.8** - Agricultura urbana agroecológica - O caso das Mulheres do GAU_MIRANDA Lucas.pdf
 * **6.9** - A agricultura e a cidade - os produtores agricolas da ZL de SP_SANTOS Rubia.pdf
-* **6.10** - Hortas Urbanas espaços verdes para drenagem sustentavel_SOUZA vs FEITOSA.pdf
+* **6.9.1** - Hortas Urbanas espaços verdes para drenagem sustentavel_SOUZA vs FEITOSA.pdf
 
 ## 7. Metodologia (`metodologia/`)
 * **7.1** - Amostragem por saturação em pesquisas_FONTANELLA.pdf
