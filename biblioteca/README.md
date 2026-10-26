@@ -94,4 +94,4 @@
 * **7.8.3** - Como Elaborar um Questionario - Hartnut GUNTHER.pdf
 * **7.8.4** - Delineamentos Quantitativos_Ronei MARTINS.pdf
 * **7.9** - Introducao a Metodologia da Pesquisa_Uwe_FLICK.pdf
-* **7.10** - Introducao a pesquisa qualitativa_FLICK.pdf
+* **7.9.1** - Introducao a pesquisa qualitativa_FLICK.pdf
